@@ -3,7 +3,7 @@ import numpy as np
 import json
 
 data_dict = dict()
-kenpom_json_file = open('../kenpom/kenpom.json', 'r')
+kenpom_json_file = open('kenpom.json', 'r')
 kenpom_data = json.load(kenpom_json_file)
 firstrow = kenpom_data[0]
 
@@ -12,7 +12,7 @@ for row in kenpom_data:
     if data_dict.get(year) is None:
         data_dict[year] = np.array([[]])
     vals = list(row.values())
-    data_dict[year] = np.append(data_dict[year], np.array(list(row.values())))
+    data_dict[year] = np.append(data_dict[year], np.array(vals))
 
 numvals = len(firstrow.keys())
 

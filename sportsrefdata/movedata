@@ -1,0 +1,25 @@
+#!/bin/bash
+
+startYear="${1}"
+endYear="${2}"
+
+
+for ((i="${startYear}";i<="${endYear}";i++))
+do
+	if [ ! -d "data/${i}" ]
+	then
+		mkdir "data/${i}" 
+	fi
+
+	search="${i}.csv"
+	for file in $(ls | grep "${search}"):
+	do
+		name=$(basename "${file}")
+		if [[ "${name}" == *":"* ]]
+		then
+			mv "${file::-1}" "data/${i}/${name::-1}"
+		else
+			mv "${file}" "data/${i}/${name}"
+		fi
+	done
+done
