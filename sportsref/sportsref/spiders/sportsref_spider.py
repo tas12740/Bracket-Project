@@ -68,8 +68,8 @@ class SportsRefOpponentSpider(scrapy.Spider):
     def parse(self, response):
         year = int(response.url.split('/')[-1].split('-')[0])
         for tr in response.css('tr'):
-            ncaa = tr.css('small').getall()
-            if len(ncaa) == 0:
+            ncaa = tr.css('td.left::text').get()
+            if not ncaa:
                 continue
             # only get the stats of NCAA tournament teams
             row = {}
