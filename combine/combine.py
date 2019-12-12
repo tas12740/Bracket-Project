@@ -60,12 +60,16 @@ for year in range(start, end+1):
     columns_to_drop = ['losses', 'g', 'school_name', 'wins', 'Rank']
     joined = joined.drop(columns=columns_to_drop)
 
+    print (joined.shape)
+
     sports_ref_opp_data.drop(columns=['g', 'wins', 'losses', 'srs', 'sos', 'wins_conf', 'losses_conf',
                                       'wins_home', 'losses_home', 'wins_visitor', 'losses_visitor', 'pts', 'opp_pts', 'year'], inplace=True)
     joined = pd.merge(joined, sports_ref_opp_data,
                       left_on='Team', right_on='school_name')
     columns_to_drop = ['school_name']
     joined = joined.drop(columns=columns_to_drop)
+
+    print (joined.shape)
 
     columns_to_drop = ['g', 'gs', 'hometown', 'number', 'player', 'summary', 'type', 'rsci']
     sports_ref_player_data = sports_ref_player_data.drop(columns=columns_to_drop)

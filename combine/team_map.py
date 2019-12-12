@@ -33,7 +33,7 @@ def map_team_names(name: str):
         return 'UTEP'
     if name == 'Texas-San Antonio' or name == 'Texas San Antonio':
         return 'UTSA'
-    if name == 'Louisiana' or name=='Louisiana-Lafayette':
+    if name == 'Louisiana' or name == 'Louisiana-Lafayette':
         return 'Louisiana Lafayette'
     if name == 'Virginia Commonwealth':
         return 'VCU'
@@ -121,4 +121,6 @@ def map_team_names(name: str):
         return "North Carolina A&T"
     if name == 'College Of Charleston':
         return 'College of Charleston'
+    if name == 'N.C. State' or name == 'NCSU' or name == 'North Carolina State' or name == 'North Carolina State University':
+        return 'NC State'
     return name
