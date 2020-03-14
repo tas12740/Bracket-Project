@@ -1,17 +1,20 @@
 import scrapy
 
+
 class SportsRefTeamSpider(scrapy.Spider):
-    name="sportsref"
-    start_urls = ['https://www.sports-reference.com/cbb/seasons/' + str(yr) + '-advanced-school-stats.html' for yr in range(2002, 2020)]
-    
+    name = "sportsref"
+    start_urls = ['https://www.sports-reference.com/cbb/seasons/' +
+                  str(yr) + '-advanced-school-stats.html' for yr in range(2002, 2021)]
+
     def parse(self, response):
         year = int(response.url.split('/')[-1].split('-')[0])
         for tr in response.css('tr'):
             ncaa = tr.css('small').getall()
-            if len(ncaa) == 0:
+            if len(ncaa) == 0 and year != 2020:
                 # only get the stats of NCAA tournament teams
                 continue
             row = {}
+            link = None
             for td in tr.css('td'):
                 stat = td.attrib['data-stat']
                 if stat == 'x':
@@ -62,14 +65,15 @@ class SportsRefTeamSpider(scrapy.Spider):
 
 
 class SportsRefOpponentSpider(scrapy.Spider):
-    name="sportsrefoppadvanced"
-    start_urls = ['https://www.sports-reference.com/cbb/seasons/' + str(yr) + '-advanced-opponent-stats.html' for yr in range(2002, 2020)]
+    name = "sportsrefoppadvanced"
+    start_urls = ['https://www.sports-reference.com/cbb/seasons/' +
+                  str(yr) + '-advanced-opponent-stats.html' for yr in range(2002, 2021)]
 
     def parse(self, response):
         year = int(response.url.split('/')[-1].split('-')[0])
         for tr in response.css('tr'):
             ncaa = tr.css('td.left::text').get()
-            if not ncaa:
+            if not ncaa and year != 2020:
                 continue
             # only get the stats of NCAA tournament teams
             row = {}

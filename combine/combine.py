@@ -1,5 +1,6 @@
 import pandas as pd
 from team_map import map_team_names
+from sys import maxsize
 
 start = 2002
 end = 2019
@@ -109,8 +110,23 @@ for year in range(start, end+1):
     joined = pd.merge(joined, players_df, left_on='Team', right_on='team')
     columns_to_drop = ['team', 'win_loss_pct_y', 'win_loss_pct_x']
     joined = joined.drop(columns=columns_to_drop)
+
+    polls = pd.read_csv(f'../pollsdata/{year}Polls.csv', index_col=0)
+    polls['school_name'] = polls['school_name'].apply(map_team_names)
+
+    joined_teams = set(joined['Team'].unique())
+    polls_teams = set(polls['school_name'].unique())
+
+    print (sorted(joined_teams - polls_teams))
+    print (sorted(polls_teams - joined_teams))
+
+    joined = pd.merge(joined, polls, how='left', left_on='Team', right_on='school_name')
+    columns_to_drop = ['school_name', 'Unnamed: 0']
+    joined = joined.drop(columns=columns_to_drop)
+    # print (joined)
+
     joined['year'] = year
 
     joined = joined.fillna(0)
-    joined.to_csv('joined-data/' + str(year) + 'JoinedData.csv')
+    joined.to_csv(f'joined-data/{year}JoinedData.csv')
     print (f'{year} Done! {joined.shape}')

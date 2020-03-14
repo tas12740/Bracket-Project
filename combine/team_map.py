@@ -93,7 +93,7 @@ def map_team_names(name: str):
         return 'UCLA'
     if name == 'Mcneese State':
         return 'McNeese State'
-    if name == 'Saint Josephs':
+    if name == 'Saint Josephs' or name == "St. Joseph's":
         return 'Saint Joseph\'s'
     if name == 'Iupui':
         return 'IUPUI'
@@ -123,4 +123,7 @@ def map_team_names(name: str):
         return 'College of Charleston'
     if name == 'N.C. State' or name == 'NCSU' or name == 'North Carolina State' or name == 'North Carolina State University':
         return 'NC State'
+    if name == 'UNC': return 'North Carolina'
+    if name == 'UConn': return 'Connecticut'
+    if name == 'Pitt': return 'Pittsburgh'
     return name

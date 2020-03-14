@@ -1,1113 +1,1113 @@
-,year,winner,team_one,team_two
-0,2002,Maryland,Maryland,Siena
-1,2002,Maryland,Maryland,Wisconsin
-2,2002,Maryland,Maryland,Kentucky
-3,2002,Maryland,Maryland,Connecticut
-4,2002,Maryland,Maryland,Kansas
-5,2002,Maryland,Maryland,Indiana
-6,2002,Siena,Siena,Alcorn State
-7,2002,Wisconsin,Wisconsin,St. John's
-8,2002,Kentucky,Kentucky,Valparaiso
-9,2002,Kentucky,Kentucky,Tulsa
-10,2002,Tulsa,Marquette,Tulsa
-11,2002,Connecticut,Connecticut,Hampton
-12,2002,Connecticut,Connecticut,NC State
-13,2002,Connecticut,Connecticut,Southern Illinois
-14,2002,NC State,NC State,Michigan State
-15,2003,Oklahoma,Oklahoma,South Carolina State
-16,2003,Oklahoma,Oklahoma,California
-17,2003,Oklahoma,Oklahoma,Butler
-18,2003,Syracuse,Oklahoma,Syracuse
-19,2003,Syracuse,Syracuse,Texas
-20,2003,Syracuse,Syracuse,Kansas
-21,2004,Saint Joseph's,Saint Joseph's,Liberty
-22,2004,Saint Joseph's,Saint Joseph's,Texas Tech
-23,2004,Saint Joseph's,Saint Joseph's,Wake Forest
-24,2004,Oklahoma State,Saint Joseph's,Oklahoma State
-25,2002,Georgia,Georgia,Murray State
-26,2002,Southern Illinois,Georgia,Southern Illinois
-27,2002,Southern Illinois,Texas Tech,Southern Illinois
-28,2002,Kansas,Kansas,Holy Cross
-29,2007,Florida,Florida,Jackson State
-30,2007,Florida,Florida,Purdue
-31,2007,Florida,Florida,Butler
-32,2007,Florida,Florida,Oregon
-33,2007,Florida,Florida,UCLA
-34,2003,UNC Asheville,UNC Asheville,Texas Southern
-35,2003,California,California,NC State
-36,2003,Louisville,Louisville,Austin Peay
-37,2004,Georgia Tech,Oklahoma State,Georgia Tech
-38,2004,Connecticut,Georgia Tech,Connecticut
-39,2004,Texas Tech,Texas Tech,Charlotte
-40,2004,Wake Forest,Wake Forest,VCU
-41,2005,North Carolina,North Carolina,Oakland
-42,2002,Kansas,Kansas,Stanford
-43,2002,Kansas,Kansas,Illinois
-44,2002,Kansas,Kansas,Oregon
-45,2002,Stanford,Stanford,Western Kentucky
-46,2007,Florida,Florida,Ohio State
-47,2007,Purdue,Arizona,Purdue
-48,2007,Maryland,Maryland,Davidson
-49,2007,Butler,Maryland,Butler
-50,2006,Connecticut,Connecticut,Albany
-51,2006,Connecticut,Connecticut,Kentucky
-52,2003,Butler,Louisville,Butler
-53,2003,Butler,Mississippi State,Butler
-54,2003,Wake Forest,Wake Forest,East Tennessee State
-55,2010,Kentucky,Kentucky,East Tennessee State
-56,2010,Kentucky,Kentucky,Wake Forest
-57,2010,Kentucky,Kentucky,Cornell
-58,2004,Wake Forest,Wake Forest,Manhattan
-59,2004,Manhattan,Florida,Manhattan
-60,2004,Oklahoma State,Oklahoma State,Eastern Washington
-61,2008,North Carolina,North Carolina,Mount St. Mary's
-62,2005,North Carolina,North Carolina,Iowa State
-63,2005,North Carolina,North Carolina,Villanova
-64,2005,North Carolina,North Carolina,Wisconsin
-65,2005,North Carolina,North Carolina,Michigan State
-66,2009,Pittsburgh,Pittsburgh,East Tennessee State
-67,2009,Pittsburgh,Pittsburgh,Oklahoma State
-68,2002,Illinois,Illinois,San Diego State
-69,2007,Butler,Butler,Old Dominion
-70,2006,Connecticut,Connecticut,Washington
-71,2006,George Mason,Connecticut,George Mason
-72,2006,Florida,George Mason,Florida
-73,2011,Ohio State,Ohio State,UTSA
-74,2011,Ohio State,Ohio State,George Mason
-75,2003,Auburn,Wake Forest,Auburn
-76,2003,Syracuse,Auburn,Syracuse
-77,2003,Auburn,Saint Joseph's,Auburn
-78,2012,Kentucky,Kentucky,Western Kentucky
-79,2010,West Virginia,Kentucky,West Virginia
-80,2010,Duke,West Virginia,Duke
-81,2010,Duke,Duke,Butler
-82,2010,Wake Forest,Texas,Wake Forest
-83,2004,Oklahoma State,Oklahoma State,Memphis
-84,2004,Oklahoma State,Oklahoma State,Pittsburgh
-85,2004,Memphis,Memphis,South Carolina
-86,2013,Louisville,Louisville,North Carolina A&T
-87,2013,Louisville,Louisville,Colorado State
-88,2013,Louisville,Louisville,Oregon
-89,2008,North Carolina,North Carolina,Arkansas
-90,2008,North Carolina,North Carolina,Washington State
-91,2008,North Carolina,North Carolina,Louisville
-92,2008,Kansas,North Carolina,Kansas
-93,2008,Kansas,Kansas,Memphis
-94,2008,Mount St. Mary's,Mount St. Mary's,Coppin State
-95,2005,North Carolina,North Carolina,Illinois
-96,2005,Oakland,Oakland,Alabama A&M
-97,2005,Iowa State,Minnesota,Iowa State
-98,2005,Florida,Florida,Ohio
-99,2009,Pittsburgh,Pittsburgh,Xavier
-100,2009,Villanova,Pittsburgh,Villanova
-101,2009,North Carolina,Villanova,North Carolina
-102,2009,North Carolina,North Carolina,Michigan State
-103,2009,Oklahoma State,Oklahoma State,Tennessee
-104,2002,Illinois,Illinois,Creighton
-105,2002,Creighton,Florida,Creighton
-106,2002,Oregon,Oregon,Montana
-107,2002,Oregon,Oregon,Wake Forest
-108,2007,Wisconsin,Wisconsin,Texas A&M-Corpus Christi
-109,2014,Wichita State,Wichita State,Cal Poly
-110,2014,Kentucky,Wichita State,Kentucky
-111,2015,Kentucky,Kentucky,Hampton
-112,2015,Kentucky,Kentucky,Cincinnati
-113,2015,Kentucky,Kentucky,West Virginia
-114,2016,Kansas,Kansas,Austin Peay
-115,2006,Florida,Florida,UCLA
-116,2006,Kentucky,Kentucky,UAB
-117,2006,Illinois,Illinois,Air Force
-118,2011,Kentucky,Ohio State,Kentucky
-119,2011,Kentucky,Kentucky,North Carolina
-120,2011,Connecticut,Kentucky,Connecticut
-121,2018,Villanova,Villanova,Radford
-122,2003,Syracuse,Syracuse,Manhattan
-123,2012,Kentucky,Kentucky,Iowa State
-124,2012,Kentucky,Kentucky,Indiana
-125,2012,Kentucky,Kentucky,Baylor
-126,2010,Wisconsin,Wisconsin,Wofford
-127,2010,Cornell,Wisconsin,Cornell
-128,2010,Cornell,Temple,Cornell
-129,2004,Pittsburgh,Pittsburgh,UCF
-130,2004,Pittsburgh,Pittsburgh,Wisconsin
-131,2004,Wisconsin,Wisconsin,Richmond
-132,2013,Louisville,Louisville,Duke
-133,2013,Louisville,Louisville,Wichita State
-134,2013,Louisville,Louisville,Michigan
-135,2017,Villanova,Villanova,Mount St. Mary's
-136,2017,Wisconsin,Villanova,Wisconsin
-137,2017,Florida,Wisconsin,Florida
-138,2017,South Carolina,Florida,South Carolina
-139,2008,Arkansas,Indiana,Arkansas
-140,2008,Washington State,Washington State,Winthrop
-141,2005,Villanova,Florida,Villanova
-142,2005,Villanova,Villanova,New Mexico
-143,2005,Connecticut,Connecticut,UCF
-144,2005,NC State,Connecticut,NC State
-145,2005,Wisconsin,NC State,Wisconsin
-146,2009,Xavier,Xavier,Portland State
-147,2009,Xavier,Xavier,Wisconsin
-148,2009,Wisconsin,Florida State,Wisconsin
-149,2002,Oregon,Oregon,Texas
-150,2002,Wake Forest,Wake Forest,Pepperdine
-151,2007,UNLV,Wisconsin,UNLV
-152,2007,Oregon,Oregon,UNLV
-153,2007,UNLV,UNLV,Georgia Tech
-154,2007,Oregon,Oregon,Miami OH
-155,2007,Oregon,Oregon,Winthrop
-156,2014,Kentucky,Kentucky,Louisville
-157,2014,Kentucky,Kentucky,Michigan
-158,2014,Kentucky,Kentucky,Wisconsin
-159,2014,Connecticut,Kentucky,Connecticut
-160,2015,Kentucky,Kentucky,Notre Dame
-161,2015,Wisconsin,Kentucky,Wisconsin
-162,2015,Duke,Wisconsin,Duke
-163,2015,Hampton,Hampton,Manhattan
-164,2016,Kansas,Kansas,Connecticut
-165,2016,Kansas,Kansas,Maryland
-166,2016,Villanova,Kansas,Villanova
-167,2016,Villanova,Villanova,Oklahoma
-168,2016,Villanova,Villanova,North Carolina
-169,2016,Connecticut,Colorado,Connecticut
-170,2006,Washington,Illinois,Washington
-171,2006,Washington,Washington,Utah State
-172,2006,Tennessee,Tennessee,Winthrop
-173,2006,Wichita State,Tennessee,Wichita State
-174,2011,Connecticut,Connecticut,Butler
-175,2011,UTSA,UTSA,Alabama State
-176,2011,George Mason,George Mason,Villanova
-177,2011,Kentucky,Kentucky,Princeton
-178,2011,Kentucky,Kentucky,West Virginia
-179,2011,West Virginia,West Virginia,Clemson
-180,2011,Clemson,Clemson,UAB
-181,2011,North Carolina,North Carolina,LIU Brooklyn
-182,2018,Villanova,Villanova,Alabama
-183,2018,Villanova,Villanova,West Virginia
-184,2018,Villanova,Villanova,Texas Tech
-185,2018,Villanova,Villanova,Kansas
-186,2018,Villanova,Villanova,Michigan
-187,2003,Syracuse,Syracuse,Oklahoma State
-188,2003,Oklahoma State,Oklahoma State,Penn
-189,2003,Texas,Texas,UNC Asheville
-190,2003,Texas,Texas,Purdue
-191,2003,Texas,Texas,Connecticut
-192,2012,Kentucky,Kentucky,Louisville
-193,2012,Kentucky,Kentucky,Kansas
-194,2012,Western Kentucky,Western Kentucky,Mississippi Valley State
-195,2012,Iowa State,Iowa State,Connecticut
-196,2012,Indiana,Indiana,New Mexico State
-197,2010,West Virginia,West Virginia,Morgan State
-198,2010,West Virginia,West Virginia,Missouri
-199,2010,West Virginia,West Virginia,Washington
-200,2010,Missouri,Clemson,Missouri
-201,2010,New Mexico,New Mexico,Montana
-202,2004,Kentucky,Kentucky,Florida A&M
-203,2004,UAB,Kentucky,UAB
-204,2004,Kansas,UAB,Kansas
-205,2013,North Carolina A&T,North Carolina A&T,Liberty
-206,2013,Colorado State,Colorado State,Missouri
-207,2013,Saint Louis,Saint Louis,New Mexico State
-208,2017,Gonzaga,South Carolina,Gonzaga
-209,2017,North Carolina,Gonzaga,North Carolina
-210,2017,Mount St. Mary's,Mount St. Mary's,New Orleans
-211,2017,Wisconsin,Wisconsin,Virginia Tech
-212,2017,Florida,Florida,East Tennessee State
-213,2008,Washington State,Washington State,Notre Dame
-214,2008,Notre Dame,Notre Dame,George Mason
-215,2008,Tennessee,Tennessee,American
-216,2008,Tennessee,Tennessee,Butler
-217,2005,NC State,Charlotte,NC State
-218,2005,Bucknell,Kansas,Bucknell
-219,2005,Wisconsin,Bucknell,Wisconsin
-220,2005,Wisconsin,Wisconsin,Northern Iowa
-221,2009,Duke,Duke,Binghamton
-222,2009,Duke,Duke,Texas
-223,2009,Villanova,Duke,Villanova
-224,2002,Mississippi State,Mississippi State,McNeese State
-225,2002,Texas,Mississippi State,Texas
-226,2002,Texas,Texas,Boston College
-227,2007,Winthrop,Notre Dame,Winthrop
-228,2007,Kansas,Kansas,Niagara
-229,2007,Kansas,Kansas,Kentucky
-230,2007,Kansas,Kansas,Southern Illinois
-231,2014,Cal Poly,Cal Poly,Texas Southern
-232,2014,Kentucky,Kentucky,Kansas State
-233,2014,Louisville,Louisville,Manhattan
-234,2014,Louisville,Louisville,Saint Louis
-235,2014,Saint Louis,Saint Louis,NC State
-236,2015,Cincinnati,Cincinnati,Purdue
-237,2015,Maryland,Maryland,Valparaiso
-238,2015,West Virginia,Maryland,West Virginia
-239,2016,Hawaii,California,Hawaii
-240,2016,Maryland,Hawaii,Maryland
-241,2016,Maryland,Maryland,South Dakota State
-242,2006,George Mason,Wichita State,George Mason
-243,2006,Wichita State,Wichita State,Seton Hall
-244,2006,North Carolina,North Carolina,Murray State
-245,2006,George Mason,North Carolina,George Mason
-246,2006,George Mason,Michigan State,George Mason
-247,2011,North Carolina,North Carolina,Washington
-248,2011,North Carolina,North Carolina,Marquette
-249,2011,Washington,Washington,Georgia
-250,2011,Syracuse,Syracuse,Indiana State
-251,2011,Marquette,Syracuse,Marquette
-252,2018,Radford,Radford,LIU Brooklyn
-253,2018,Alabama,Virginia Tech,Alabama
-254,2018,Marshall,Wichita State,Marshall
-255,2018,West Virginia,Marshall,West Virginia
-256,2003,Texas,Texas,Michigan State
-257,2003,Purdue,LSU,Purdue
-258,2003,Stanford,Stanford,San Diego
-259,2003,Connecticut,Stanford,Connecticut
-260,2003,Connecticut,Connecticut,BYU
-261,2003,Florida,Florida,Sam Houston State
-262,2012,Indiana,Indiana,VCU
-263,2012,VCU,Wichita State,VCU
-264,2012,Lehigh,Duke,Lehigh
-265,2012,Xavier,Lehigh,Xavier
-266,2012,Baylor,Xavier,Baylor
-267,2012,Xavier,Notre Dame,Xavier
-268,2010,Washington,New Mexico,Washington
-269,2010,Washington,Marquette,Washington
-270,2010,Duke,Duke,Arkansas Pine Bluff
-271,2010,Duke,Duke,California
-272,2010,Duke,Duke,Purdue
-273,2010,Duke,Duke,Baylor
-274,2010,Arkansas Pine Bluff,Arkansas Pine Bluff,Winthrop
-275,2010,California,California,Louisville
-276,2004,Georgia Tech,Kansas,Georgia Tech
-277,2004,Florida A&M,Florida A&M,Lehigh
-278,2004,UAB,Washington,UAB
-279,2004,Kansas,Kansas,Illinois-Chicago
-280,2004,Kansas,Kansas,Pacific
-281,2013,Oregon,Saint Louis,Oregon
-282,2013,Oregon,Oklahoma State,Oregon
-283,2013,Duke,Duke,Albany
-284,2013,Duke,Duke,Creighton
-285,2013,Duke,Duke,Michigan State
-286,2017,Florida,Florida,Virginia
-287,2017,Virginia,Virginia,UNC Wilmington
-288,2017,Duke,Duke,Troy State
-289,2017,South Carolina,Duke,South Carolina
-290,2017,South Carolina,South Carolina,Baylor
-291,2017,South Carolina,South Carolina,Marquette
-292,2008,Louisville,Tennessee,Louisville
-293,2008,Butler,Butler,South Alabama
-294,2008,Louisville,Louisville,Boise State
-295,2008,Louisville,Louisville,Oklahoma
-296,2008,Oklahoma,Oklahoma,Saint Joseph's
-297,2005,Duke,Duke,Delaware State
-298,2005,Duke,Duke,Mississippi State
-299,2005,Michigan State,Duke,Michigan State
-300,2005,Michigan State,Michigan State,Kentucky
-301,2009,Texas,Texas,Minnesota
-302,2009,Villanova,Villanova,American
-303,2009,Villanova,Villanova,UCLA
-304,2009,UCLA,UCLA,VCU
-305,2002,Cincinnati,Cincinnati,Boston University
-306,2002,UCLA,Cincinnati,UCLA
-307,2002,Missouri,UCLA,Missouri
-308,2002,Oklahoma,Missouri,Oklahoma
-309,2002,Indiana,Oklahoma,Indiana
-310,2002,UCLA,UCLA,Mississippi
-311,2002,Ohio State,Ohio State,Davidson
-312,2007,UCLA,Kansas,UCLA
-313,2007,Niagara,Niagara,Florida A&M
-314,2007,Kentucky,Kentucky,Villanova
-315,2007,Southern Illinois,Southern Illinois,Holy Cross
-316,2014,NC State,NC State,Xavier
-317,2014,Michigan,Michigan,Wofford
-318,2014,Michigan,Michigan,Texas
-319,2014,Michigan,Michigan,Tennessee
-320,2014,Texas,Texas,Arizona State
-321,2014,Mercer,Duke,Mercer
-322,2015,West Virginia,West Virginia,Buffalo
-323,2015,Kansas,Kansas,New Mexico State
-324,2015,Wichita State,Kansas,Wichita State
-325,2016,Villanova,Villanova,UNC Asheville
-326,2016,Villanova,Villanova,Iowa
-327,2016,Villanova,Villanova,Miami (FL)
-328,2006,Villanova,Villanova,Monmouth
-329,2006,Villanova,Villanova,Arizona
-330,2006,Villanova,Villanova,Boston College
-331,2006,Florida,Villanova,Florida
-332,2011,Marquette,Xavier,Marquette
-333,2011,Duke,Duke,Hampton
-334,2018,West Virginia,West Virginia,Murray State
-335,2018,Purdue,Purdue,Cal State Fullerton
-336,2018,Purdue,Purdue,Butler
-337,2018,Texas Tech,Purdue,Texas Tech
-338,2003,Michigan State,Florida,Michigan State
-339,2003,Michigan State,Michigan State,Maryland
-340,2003,Michigan State,Michigan State,Colorado
-341,2003,Xavier,Xavier,Troy State
-342,2012,Baylor,Baylor,South Dakota State
-343,2012,Baylor,Baylor,Colorado
-344,2012,Colorado,UNLV,Colorado
-345,2010,Purdue,Purdue,Siena
-346,2010,Purdue,Purdue,Texas A&M
-347,2010,Texas A&M,Texas A&M,Utah State
-348,2004,Pacific,Providence,Pacific
-349,2004,Gonzaga,Gonzaga,Valparaiso
-350,2004,Nevada,Gonzaga,Nevada
-351,2013,Creighton,Creighton,Cincinnati
-352,2013,Michigan State,Michigan State,Valparaiso
-353,2013,Michigan State,Michigan State,Memphis
-354,2013,Memphis,Memphis,Saint Mary's
-355,2017,Baylor,Baylor,New Mexico State
-356,2008,Kansas,Kansas,Portland State
-357,2008,Kansas,Kansas,UNLV
-358,2008,Kansas,Kansas,Villanova
-359,2008,Kansas,Kansas,Davidson
-360,2008,UNLV,UNLV,Kent State
-361,2005,Mississippi State,Stanford,Mississippi State
-362,2005,Vermont,Syracuse,Vermont
-363,2005,Michigan State,Vermont,Michigan State
-364,2005,Michigan State,Michigan State,Old Dominion
-365,2005,Kentucky,Kentucky,Eastern Kentucky
-366,2005,Kentucky,Kentucky,Cincinnati
-367,2009,North Carolina,North Carolina,Radford
-368,2009,North Carolina,North Carolina,LSU
-369,2009,North Carolina,North Carolina,Gonzaga
-370,2009,North Carolina,North Carolina,Oklahoma
-371,2009,LSU,LSU,Butler
-372,2002,Missouri,Ohio State,Missouri
-373,2002,Missouri,Miami (FL),Missouri
-374,2002,Oklahoma,Oklahoma,Illinois-Chicago
-375,2002,Oklahoma,Oklahoma,Xavier
-376,2007,Southern Illinois,Southern Illinois,Virginia Tech
-377,2007,Virginia Tech,Virginia Tech,Illinois
-378,2007,UCLA,UCLA,Weber State
-379,2007,UCLA,UCLA,Indiana
-380,2007,UCLA,UCLA,Pittsburgh
-381,2007,Indiana,Indiana,Gonzaga
-382,2014,Tennessee,Mercer,Tennessee
-383,2014,Tennessee,Massachusetts,Tennessee
-384,2014,Tennessee,Tennessee,Iowa
-385,2014,Arizona,Arizona,Weber State
-386,2014,Arizona,Arizona,Gonzaga
-387,2015,Notre Dame,Wichita State,Notre Dame
-388,2015,Wichita State,Wichita State,Indiana
-389,2015,Notre Dame,Notre Dame,Northeastern
-390,2015,Notre Dame,Notre Dame,Butler
-391,2015,Butler,Butler,Texas
-392,2016,Iowa,Iowa,Temple
-393,2016,Miami (FL),Miami (FL),Buffalo
-394,2016,Miami (FL),Miami (FL),Wichita State
-395,2006,Monmouth,Monmouth,Hampton
-396,2006,Arizona,Arizona,Wisconsin
-397,2006,Boston College,Boston College,Pacific
-398,2011,Duke,Duke,Michigan
-399,2011,Arizona,Duke,Arizona
-400,2011,Connecticut,Arizona,Connecticut
-401,2011,Michigan,Michigan,Tennessee
-402,2011,Texas,Texas,Oakland
-403,2018,Butler,Arkansas,Butler
-404,2018,Texas Tech,Texas Tech,Stephen F. Austin
-405,2018,Texas Tech,Texas Tech,Florida
-406,2003,Maryland,Xavier,Maryland
-407,2003,Maryland,Maryland,UNC Wilmington
-408,2003,Arizona,Arizona,Vermont
-409,2003,Arizona,Arizona,Gonzaga
-410,2012,Michigan State,Michigan State,LIU Brooklyn
-411,2012,Michigan State,Michigan State,Saint Louis
-412,2010,Villanova,Villanova,Robert Morris
-413,2010,Saint Mary's,Villanova,Saint Mary's
-414,2010,Baylor,Saint Mary's,Baylor
-415,2004,Georgia Tech,Nevada,Georgia Tech
-416,2004,Nevada,Michigan State,Nevada
-417,2004,Georgia Tech,Georgia Tech,Northern Iowa
-418,2004,Georgia Tech,Georgia Tech,Boston College
-419,2004,Boston College,Boston College,Utah
-420,2013,Saint Mary's,Saint Mary's,Middle Tennessee
-421,2013,Gonzaga,Gonzaga,Southern
-422,2013,Wichita State,Gonzaga,Wichita State
-423,2017,Baylor,Baylor,USC
-424,2017,USC,SMU,USC
-425,2017,USC,USC,Providence
-426,2008,Siena,Vanderbilt,Siena
-427,2008,Villanova,Siena,Villanova
-428,2008,Villanova,Clemson,Villanova
-429,2005,Kentucky,Kentucky,Utah
-430,2005,Cincinnati,Cincinnati,Iowa
-431,2005,Oklahoma,Oklahoma,Niagara
-432,2005,Utah,Oklahoma,Utah
-433,2005,Utah,Utah,UTEP
-434,2009,Gonzaga,Gonzaga,Akron
-435,2009,Gonzaga,Gonzaga,Western Kentucky
-436,2009,Western Kentucky,Illinois,Western Kentucky
-437,2002,Oklahoma,Oklahoma,Arizona
-438,2002,Xavier,Xavier,Hawaii
-439,2002,Arizona,Arizona,UC Santa Barbara
-440,2002,Arizona,Arizona,Wyoming
-441,2002,Wyoming,Gonzaga,Wyoming
-442,2007,Pittsburgh,Pittsburgh,Wright State
-443,2007,Pittsburgh,Pittsburgh,VCU
-444,2007,VCU,Duke,VCU
-445,2007,North Carolina,North Carolina,Eastern Kentucky
-446,2007,North Carolina,North Carolina,Michigan State
-447,2007,North Carolina,North Carolina,USC
-448,2014,Arizona,Arizona,San Diego State
-449,2014,Wisconsin,Arizona,Wisconsin
-450,2014,Gonzaga,Gonzaga,Oklahoma State
-451,2014,San Diego State,San Diego State,New Mexico State
-452,2015,Wisconsin,Wisconsin,Coastal Carolina
-453,2015,Wisconsin,Wisconsin,Oregon
-454,2015,Wisconsin,Wisconsin,North Carolina
-455,2015,Wisconsin,Wisconsin,Arizona
-456,2015,Oregon,Oregon,Oklahoma State
-457,2016,Wichita State,Arizona,Wichita State
-458,2016,Wichita State,Wichita State,Vanderbilt
-459,2016,Oregon,Oregon,Holy Cross
-460,2016,Oregon,Oregon,Saint Joseph's
-461,2016,Oregon,Oregon,Duke
-462,2016,Oklahoma,Oregon,Oklahoma
-463,2016,Holy Cross,Holy Cross,Southern
-464,2006,Boston College,Boston College,Montana
-465,2006,Montana,Nevada,Montana
-466,2006,Ohio State,Ohio State,Davidson
-467,2006,Georgetown,Ohio State,Georgetown
-468,2006,Florida,Georgetown,Florida
-469,2006,Georgetown,Georgetown,Northern Iowa
-470,2011,Arizona,Texas,Arizona
-471,2011,Arizona,Arizona,Memphis
-472,2011,San Diego State,San Diego State,Northern Colorado
-473,2011,San Diego State,San Diego State,Temple
-474,2018,Florida,Florida,St. Bonaventure
-475,2018,St. Bonaventure,St. Bonaventure,UCLA
-476,2018,Kansas,Kansas,Penn
-477,2018,Kansas,Kansas,Seton Hall
-478,2003,Arizona,Arizona,Notre Dame
-479,2003,Kansas,Arizona,Kansas
-480,2003,Kansas,Kansas,Marquette
-481,2003,Gonzaga,Cincinnati,Gonzaga
-482,2003,Illinois,Illinois,Western Kentucky
-483,2003,Notre Dame,Illinois,Notre Dame
-484,2012,Louisville,Michigan State,Louisville
-485,2012,Louisville,Louisville,Florida
-486,2012,Saint Louis,Memphis,Saint Louis
-487,2012,Louisville,Louisville,Davidson
-488,2012,Louisville,Louisville,New Mexico
-489,2012,New Mexico,New Mexico,Long Beach State
-490,2010,Saint Mary's,Richmond,Saint Mary's
-491,2010,Baylor,Baylor,Sam Houston State
-492,2010,Baylor,Baylor,Old Dominion
-493,2010,Old Dominion,Notre Dame,Old Dominion
-494,2010,Kansas,Kansas,Lehigh
-495,2004,Duke,Duke,Alabama State
-496,2004,Duke,Duke,Seton Hall
-497,2004,Duke,Duke,Illinois
-498,2004,Duke,Duke,Xavier
-499,2004,Connecticut,Duke,Connecticut
-500,2013,Wichita State,Wichita State,La Salle
-501,2013,Wichita State,Wichita State,Ohio State
-502,2013,Wichita State,Pittsburgh,Wichita State
-503,2013,La Salle,Kansas State,La Salle
-504,2013,La Salle,La Salle,Mississippi
-505,2013,La Salle,La Salle,Boise State
-506,2013,Mississippi,Wisconsin,Mississippi
-507,2017,Gonzaga,Gonzaga,South Dakota State
-508,2017,Gonzaga,Gonzaga,Northwestern
-509,2017,Gonzaga,Gonzaga,West Virginia
-510,2017,Gonzaga,Gonzaga,Xavier
-511,2017,Northwestern,Northwestern,Vanderbilt
-512,2008,Georgetown,Georgetown,UMBC
-513,2008,Davidson,Georgetown,Davidson
-514,2008,Davidson,Davidson,Wisconsin
-515,2008,Davidson,Gonzaga,Davidson
-516,2008,Wisconsin,Wisconsin,Cal State Fullerton
-517,2005,Washington,Washington,Montana
-518,2005,Washington,Washington,Pacific
-519,2005,Louisville,Washington,Louisville
-520,2005,Louisville,Louisville,West Virginia
-521,2009,Oklahoma,Oklahoma,Morgan State
-522,2009,Oklahoma,Oklahoma,Michigan
-523,2009,Oklahoma,Oklahoma,Syracuse
-524,2009,Michigan,Clemson,Michigan
-525,2002,Duke,Duke,Winthrop
-526,2002,Duke,Duke,Notre Dame
-527,2002,Indiana,Duke,Indiana
-528,2002,Indiana,Indiana,Kent State
-529,2007,Georgetown,North Carolina,Georgetown
-530,2007,Ohio State,Georgetown,Ohio State
-531,2007,Michigan State,Marquette,Michigan State
-532,2007,Texas,Texas,New Mexico State
-533,2014,San Diego State,San Diego State,North Dakota State
-534,2014,North Dakota State,Oklahoma,North Dakota State
-535,2014,Wisconsin,Wisconsin,American
-536,2014,Wisconsin,Wisconsin,Oregon
-537,2015,North Carolina,North Carolina,Harvard
-538,2015,North Carolina,North Carolina,Arkansas
-539,2015,Arkansas,Arkansas,Wofford
-540,2016,Saint Joseph's,Saint Joseph's,Cincinnati
-541,2016,Duke,Duke,UNC Wilmington
-542,2016,Duke,Duke,Yale
-543,2016,Yale,Baylor,Yale
-544,2006,Florida,Florida,South Alabama
-545,2006,Florida,Florida,Milwaukee
-546,2006,Milwaukee,Oklahoma,Milwaukee
-547,2011,Connecticut,San Diego State,Connecticut
-548,2011,Temple,Temple,Penn State
-549,2011,Connecticut,Connecticut,Bucknell
-550,2011,Connecticut,Connecticut,Cincinnati
-551,2018,Kansas,Kansas,Clemson
-552,2018,Kansas,Kansas,Duke
-553,2018,Seton Hall,Seton Hall,NC State
-554,2018,Auburn,Auburn,College of Charleston
-555,2003,Notre Dame,Notre Dame,Milwaukee
-556,2003,Kansas,Kansas,Utah State
-557,2003,Kansas,Kansas,Arizona State
-558,2012,Norfolk State,Missouri,Norfolk State
-559,2012,Florida,Norfolk State,Florida
-560,2012,Florida,Florida,Marquette
-561,2010,Northern Iowa,Kansas,Northern Iowa
-562,2010,Michigan State,Northern Iowa,Michigan State
-563,2010,Michigan State,Michigan State,Tennessee
-564,2010,Butler,Michigan State,Butler
-565,2010,Northern Iowa,UNLV,Northern Iowa
-566,2010,Maryland,Maryland,Houston
-567,2004,Seton Hall,Seton Hall,Arizona
-568,2004,Cincinnati,Cincinnati,East Tennessee State
-569,2004,Illinois,Cincinnati,Illinois
-570,2004,Illinois,Illinois,Murray State
-571,2004,Mississippi State,Mississippi State,Monmouth
-572,2004,Xavier,Mississippi State,Xavier
-573,2013,Ohio State,Ohio State,Iona
-574,2013,Ohio State,Ohio State,Iowa State
-575,2013,Ohio State,Ohio State,Arizona
-576,2013,Iowa State,Notre Dame,Iowa State
-577,2013,Harvard,New Mexico,Harvard
-578,2017,West Virginia,West Virginia,Bucknell
-579,2017,West Virginia,West Virginia,Notre Dame
-580,2017,Notre Dame,Notre Dame,Princeton
-581,2017,Arizona,Arizona,North Dakota
-582,2008,Wisconsin,Wisconsin,Kansas State
-583,2008,Kansas State,USC,Kansas State
-584,2008,Memphis,Memphis,UT Arlington
-585,2008,Memphis,Memphis,Mississippi State
-586,2008,Memphis,Memphis,Michigan State
-587,2008,Memphis,Memphis,Texas
-588,2008,Memphis,Memphis,UCLA
-589,2005,Illinois,Louisville,Illinois
-590,2005,Pacific,Pacific,Pittsburgh
-591,2005,Louisville,Louisville,Louisiana Lafayette
-592,2005,Louisville,Louisville,Georgia Tech
-593,2009,Syracuse,Syracuse,Stephen F. Austin
-594,2009,Syracuse,Syracuse,Arizona State
-595,2009,Arizona State,Arizona State,Temple
-596,2009,Louisville,Louisville,Morehead State
-597,2009,Louisville,Louisville,Siena
-598,2009,Louisville,Louisville,Arizona
-599,2009,Michigan State,Louisville,Michigan State
-600,2002,Notre Dame,Notre Dame,Charlotte
-601,2002,UNC Wilmington,USC,UNC Wilmington
-602,2002,Indiana,UNC Wilmington,Indiana
-603,2002,Indiana,Indiana,Utah
-604,2007,USC,Texas,USC
-605,2007,USC,USC,Arkansas
-606,2007,Georgetown,Georgetown,Belmont
-607,2007,Georgetown,Georgetown,Boston College
-608,2007,Georgetown,Georgetown,Vanderbilt
-609,2014,Wisconsin,Wisconsin,Baylor
-610,2014,Oregon,Oregon,BYU
-611,2014,Creighton,Creighton,Louisiana Lafayette
-612,2014,Baylor,Creighton,Baylor
-613,2014,Baylor,Baylor,Nebraska
-614,2015,Arizona,Arizona,Texas Southern
-615,2015,Arizona,Arizona,Ohio State
-616,2015,Arizona,Arizona,Xavier
-617,2015,Ohio State,VCU,Ohio State
-618,2015,Georgia State,Baylor,Georgia State
-619,2015,Xavier,Georgia State,Xavier
-620,2016,Oklahoma,Oklahoma,Cal State Bakersfield
-621,2016,Oklahoma,Oklahoma,VCU
-622,2016,Oklahoma,Oklahoma,Texas A&M
-623,2016,VCU,Oregon State,VCU
-624,2016,Texas A&M,Texas A&M,Green Bay
-625,2006,Duke,Duke,Southern
-626,2006,Duke,Duke,George Washington
-627,2006,LSU,Duke,LSU
-628,2006,LSU,LSU,Texas
-629,2006,UCLA,LSU,UCLA
-630,2006,George Washington,George Washington,UNC Wilmington
-631,2006,LSU,LSU,Iona
-632,2006,LSU,LSU,Texas A&M
-633,2011,Cincinnati,Cincinnati,Missouri
-634,2011,Kansas,Kansas,Boston University
-635,2011,Kansas,Kansas,Illinois
-636,2018,Clemson,Auburn,Clemson
-637,2018,Clemson,Clemson,New Mexico State
-638,2018,Duke,Duke,Iona
-639,2018,Duke,Duke,Rhode Island
-640,2018,Duke,Duke,Syracuse
-641,2018,Rhode Island,Rhode Island,Oklahoma
-642,2003,Kansas,Kansas,Duke
-643,2003,Arizona State,Memphis,Arizona State
-644,2003,Duke,Duke,Colorado State
-645,2012,Florida,Florida,Virginia
-646,2012,Marquette,Marquette,BYU
-647,2012,Marquette,Marquette,Murray State
-648,2012,BYU,BYU,Iona
-649,2010,Michigan State,Maryland,Michigan State
-650,2010,Michigan State,Michigan State,New Mexico State
-651,2010,Ohio State,Ohio State,UC Santa Barbara
-652,2010,Ohio State,Ohio State,Georgia Tech
-653,2010,Tennessee,Ohio State,Tennessee
-654,2004,Xavier,Xavier,Texas
-655,2004,Xavier,Xavier,Louisville
-656,2004,Texas,Texas,Princeton
-657,2004,Texas,Texas,North Carolina
-658,2013,Arizona,Harvard,Arizona
-659,2013,Arizona,Arizona,Belmont
-660,2013,Kansas,Kansas,Western Kentucky
-661,2013,Kansas,Kansas,North Carolina
-662,2013,Michigan,Kansas,Michigan
-663,2017,Arizona,Arizona,Saint Mary's
-664,2017,Xavier,Arizona,Xavier
-665,2017,Saint Mary's,Saint Mary's,VCU
-666,2017,Florida State,Florida State,Florida Gulf Coast
-667,2008,Mississippi State,Mississippi State,Oregon
-668,2008,Pittsburgh,Pittsburgh,Oral Roberts
-669,2008,Michigan State,Pittsburgh,Michigan State
-670,2008,Michigan State,Michigan State,Temple
-671,2005,Georgia Tech,Georgia Tech,George Washington
-672,2005,Wake Forest,Wake Forest,Chattanooga
-673,2005,West Virginia,Wake Forest,West Virginia
-674,2005,West Virginia,West Virginia,Texas Tech
-675,2009,Michigan State,Michigan State,Connecticut
-676,2009,Morehead State,Morehead State,Alabama State
-677,2009,Siena,Ohio State,Siena
-678,2009,Cleveland State,Wake Forest,Cleveland State
-679,2002,Alabama,Alabama,Florida Atlantic
-680,2002,Kent State,Alabama,Kent State
-681,2002,Kent State,Kent State,Pittsburgh
-682,2002,Kent State,Oklahoma State,Kent State
-683,2007,Boston College,Boston College,Texas Tech
-684,2007,Washington State,Washington State,Oral Roberts
-685,2007,Vanderbilt,Washington State,Vanderbilt
-686,2014,Florida,Florida,Albany
-687,2014,Florida,Florida,Pittsburgh
-688,2014,Florida,Florida,UCLA
-689,2014,Florida,Florida,Dayton
-690,2014,Connecticut,Florida,Connecticut
-691,2014,Albany,Albany,Mount St. Mary's
-692,2015,Xavier,Xavier,Mississippi
-693,2015,Mississippi,Mississippi,BYU
-694,2015,Duke,Duke,Robert Morris
-695,2015,Duke,Duke,San Diego State
-696,2015,Duke,Duke,Utah
-697,2015,Duke,Duke,Gonzaga
-698,2015,Duke,Duke,Michigan State
-699,2015,Robert Morris,Robert Morris,North Florida
-700,2016,Texas A&M,Texas A&M,Northern Iowa
-701,2016,Northern Iowa,Texas,Northern Iowa
-702,2016,North Carolina,North Carolina,Florida Gulf Coast
-703,2016,North Carolina,North Carolina,Providence
-704,2016,North Carolina,North Carolina,Indiana
-705,2016,North Carolina,North Carolina,Notre Dame
-706,2006,Texas A&M,Syracuse,Texas A&M
-707,2006,Texas,Texas,Penn
-708,2006,Texas,Texas,NC State
-709,2006,Texas,Texas,West Virginia
-710,2006,NC State,California,NC State
-711,2011,Kansas,Kansas,Richmond
-712,2011,VCU,Kansas,VCU
-713,2011,Butler,VCU,Butler
-714,2011,Illinois,UNLV,Illinois
-715,2011,Morehead State,Louisville,Morehead State
-716,2018,Michigan State,Michigan State,Bucknell
-717,2018,Syracuse,Michigan State,Syracuse
-718,2018,Syracuse,TCU,Syracuse
-719,2018,Syracuse,Syracuse,Arizona State
-720,2018,UMBC,Virginia,UMBC
-721,2018,Kansas State,UMBC,Kansas State
-722,2003,Duke,Duke,Central Michigan
-723,2003,Central Michigan,Creighton,Central Michigan
-724,2003,Kentucky,Kentucky,IUPUI
-725,2003,Kentucky,Kentucky,Utah
-726,2003,Kentucky,Kentucky,Wisconsin
-727,2003,Marquette,Kentucky,Marquette
-728,2012,Murray State,Murray State,Colorado State
-729,2012,Syracuse,Syracuse,UNC Asheville
-730,2012,Syracuse,Syracuse,Kansas State
-731,2012,Syracuse,Syracuse,Wisconsin
-732,2012,Ohio State,Syracuse,Ohio State
-733,2012,Kansas,Ohio State,Kansas
-734,2012,Kansas State,Kansas State,Southern Miss
-735,2010,Georgia Tech,Oklahoma State,Georgia Tech
-736,2010,Ohio,Georgetown,Ohio
-737,2010,Tennessee,Ohio,Tennessee
-738,2010,Tennessee,Tennessee,San Diego State
-739,2004,North Carolina,North Carolina,Air Force
-740,2004,Stanford,Stanford,UTSA
-741,2004,Alabama,Stanford,Alabama
-742,2004,Alabama,Alabama,Syracuse
-743,2004,Connecticut,Alabama,Connecticut
-744,2004,Alabama,Alabama,Southern Illinois
-745,2013,Michigan,Michigan,Florida
-746,2013,Michigan,Michigan,Syracuse
-747,2013,North Carolina,North Carolina,Villanova
-748,2013,Michigan,Michigan,South Dakota State
-749,2013,Michigan,Michigan,VCU
-750,2013,VCU,VCU,Akron
-751,2017,Xavier,Florida State,Xavier
-752,2017,Xavier,Maryland,Xavier
-753,2017,Kansas,Kansas,UC Davis
-754,2017,Kansas,Kansas,Michigan State
-755,2017,Kansas,Kansas,Purdue
-756,2017,Oregon,Kansas,Oregon
-757,2017,North Carolina,Oregon,North Carolina
-758,2017,UC Davis,UC Davis,North Carolina Central
-759,2008,Texas,Texas,Austin Peay
-760,2008,Texas,Texas,Miami (FL)
-761,2008,Texas,Texas,Stanford
-762,2008,Miami (FL),Miami (FL),Saint Mary's
-763,2005,West Virginia,West Virginia,Creighton
-764,2005,Gonzaga,Gonzaga,Winthrop
-765,2005,Texas Tech,Gonzaga,Texas Tech
-766,2005,Texas Tech,Texas Tech,UCLA
-767,2009,Arizona,Cleveland State,Arizona
-768,2009,Arizona,Utah,Arizona
-769,2009,Michigan State,Michigan State,Robert Morris
-770,2009,Michigan State,Michigan State,USC
-771,2002,Pittsburgh,Pittsburgh,Central Connecticut State
-772,2002,Pittsburgh,Pittsburgh,California
-773,2002,California,California,Penn
-774,2007,Vanderbilt,Vanderbilt,George Washington
-775,2007,Ohio State,Ohio State,Central Connecticut State
-776,2007,Ohio State,Ohio State,Xavier
-777,2007,Ohio State,Ohio State,Tennessee
-778,2007,Ohio State,Ohio State,Memphis
-779,2007,Xavier,BYU,Xavier
-780,2014,Pittsburgh,Colorado,Pittsburgh
-781,2014,UCLA,UCLA,Tulsa
-782,2014,UCLA,UCLA,Stephen F. Austin
-783,2014,Stephen F. Austin,VCU,Stephen F. Austin
-784,2014,Kansas,Kansas,Eastern Kentucky
-785,2015,San Diego State,San Diego State,St. John's
-786,2015,Georgetown,Georgetown,Eastern Washington
-787,2015,Utah,Georgetown,Utah
-788,2015,Utah,Utah,Stephen F. Austin
-789,2015,Gonzaga,Gonzaga,North Dakota State
-790,2015,Gonzaga,Gonzaga,Iowa
-791,2016,North Carolina,North Carolina,Syracuse
-792,2016,Florida Gulf Coast,Florida Gulf Coast,Fairleigh Dickinson
-793,2016,Providence,USC,Providence
-794,2016,Kentucky,Kentucky,Stony Brook
-795,2006,Northwestern State,Iowa,Northwestern State
-796,2006,West Virginia,Northwestern State,West Virginia
-797,2006,West Virginia,West Virginia,Southern Illinois
-798,2011,Richmond,Morehead State,Richmond
-799,2011,Richmond,Vanderbilt,Richmond
-800,2011,Notre Dame,Notre Dame,Akron
-801,2011,Florida State,Notre Dame,Florida State
-802,2018,Kansas State,Kansas State,Kentucky
-803,2018,Loyola Chicago,Kansas State,Loyola Chicago
-804,2018,Michigan,Loyola Chicago,Michigan
-805,2003,Utah,Oregon,Utah
-806,2003,Tulsa,Dayton,Tulsa
-807,2003,Wisconsin,Tulsa,Wisconsin
-808,2012,Wisconsin,Wisconsin,Montana
-809,2012,Wisconsin,Wisconsin,Vanderbilt
-810,2012,Vanderbilt,Vanderbilt,Harvard
-811,2010,Syracuse,Syracuse,Vermont
-812,2010,Syracuse,Syracuse,Gonzaga
-813,2010,Butler,Syracuse,Butler
-814,2010,Butler,Butler,Kansas State
-815,2004,Maryland,Maryland,UTEP
-816,2004,Syracuse,Maryland,Syracuse
-817,2004,Syracuse,Syracuse,BYU
-818,2004,Connecticut,Connecticut,Vermont
-819,2013,Florida Gulf Coast,Georgetown,Florida Gulf Coast
-820,2013,Florida Gulf Coast,Florida Gulf Coast,San Diego State
-821,2013,Florida,Florida Gulf Coast,Florida
-822,2013,San Diego State,San Diego State,Oklahoma
-823,2017,Michigan State,Miami (FL),Michigan State
-824,2017,Purdue,Purdue,Vermont
-825,2008,Stanford,Stanford,Cornell
-826,2008,Stanford,Stanford,Marquette
-827,2008,Marquette,Marquette,Kentucky
-828,2005,Illinois,Illinois,Fairleigh Dickinson
-829,2005,Illinois,Illinois,Nevada
-830,2005,Illinois,Illinois,Milwaukee
-831,2009,Michigan State,Michigan State,Kansas
-832,2009,USC,Boston College,USC
-833,2009,Kansas,Kansas,North Dakota State
-834,2007,Virginia,Virginia,Albany
-835,2007,Tennessee,Virginia,Tennessee
-836,2007,Tennessee,Tennessee,Long Beach State
-837,2007,Memphis,Memphis,North Texas
-838,2007,Memphis,Memphis,Nevada
-839,2014,Stanford,Kansas,Stanford
-840,2014,Dayton,Stanford,Dayton
-841,2014,Stanford,New Mexico,Stanford
-842,2014,Syracuse,Syracuse,Western Michigan
-843,2015,Gonzaga,Gonzaga,UCLA
-844,2015,Iowa,Iowa,Davidson
-845,2015,UAB,Iowa State,UAB
-846,2015,UCLA,UAB,UCLA
-847,2016,Indiana,Kentucky,Indiana
-848,2016,Indiana,Indiana,Chattanooga
-849,2016,Xavier,Xavier,Weber State
-850,2006,Memphis,Memphis,Oral Roberts
-851,2006,Memphis,Memphis,Bucknell
-852,2006,Memphis,Memphis,Bradley
-853,2006,UCLA,Memphis,UCLA
-854,2011,VCU,Florida State,VCU
-855,2011,Florida State,Texas A&M,Florida State
-856,2011,Purdue,Purdue,Saint Peter's
-857,2011,VCU,Purdue,VCU
-858,2011,VCU,Georgetown,VCU
-859,2018,Kansas State,Creighton,Kansas State
-860,2018,Buffalo,Arizona,Buffalo
-861,2018,Kentucky,Buffalo,Kentucky
-862,2003,Wisconsin,Wisconsin,Weber State
-863,2003,Pittsburgh,Pittsburgh,Wagner
-864,2003,Pittsburgh,Pittsburgh,Indiana
-865,2003,Marquette,Pittsburgh,Marquette
-866,2003,Indiana,Indiana,Alabama
-867,2012,Ohio State,Ohio State,Loyola MD
-868,2012,Ohio State,Ohio State,Gonzaga
-869,2012,Ohio State,Ohio State,Cincinnati
-870,2010,Gonzaga,Gonzaga,Florida State
-871,2010,Murray State,Vanderbilt,Murray State
-872,2010,Butler,Murray State,Butler
-873,2010,Butler,Butler,UTEP
-874,2004,Connecticut,Connecticut,DePaul
-875,2004,Connecticut,Connecticut,Vanderbilt
-876,2004,DePaul,DePaul,Dayton
-877,2004,NC State,NC State,Louisiana Lafayette
-878,2004,Vanderbilt,NC State,Vanderbilt
-879,2013,Florida,Florida,Northwestern State
-880,2013,Florida,Florida,Minnesota
-881,2013,Minnesota,UCLA,Minnesota
-882,2013,Indiana,Indiana,James Madison
-883,2013,Indiana,Indiana,Temple
-884,2017,Purdue,Purdue,Iowa State
-885,2017,Iowa State,Iowa State,Nevada
-886,2017,Louisville,Louisville,Jacksonville State
-887,2017,Michigan,Louisville,Michigan
-888,2017,Oregon,Michigan,Oregon
-889,2017,Michigan,Michigan,Oklahoma State
-890,2017,Oregon,Oregon,Iona
-891,2008,UCLA,UCLA,Mississippi Valley State
-892,2008,UCLA,UCLA,Texas A&M
-893,2008,UCLA,UCLA,Western Kentucky
-894,2008,UCLA,UCLA,Xavier
-895,2008,Texas A&M,BYU,Texas A&M
-896,2005,Illinois,Illinois,Arizona
-897,2005,Nevada,Texas,Nevada
-898,2005,Boston College,Boston College,Penn
-899,2009,Kansas,Kansas,Dayton
-900,2009,Dayton,West Virginia,Dayton
-901,2009,Connecticut,Connecticut,Chattanooga
-902,2009,Connecticut,Connecticut,Texas A&M
-903,2007,Memphis,Memphis,Texas A&M
-904,2007,Nevada,Nevada,Creighton
-905,2007,Texas A&M,Texas A&M,Penn
-906,2014,Dayton,Syracuse,Dayton
-907,2014,Dayton,Ohio State,Dayton
-908,2014,Virginia,Virginia,Coastal Carolina
-909,2015,UCLA,SMU,UCLA
-910,2015,Villanova,Villanova,Lafayette
-911,2015,NC State,Villanova,NC State
-912,2016,Wisconsin,Xavier,Wisconsin
-913,2016,Notre Dame,Wisconsin,Notre Dame
-914,2016,Wisconsin,Wisconsin,Pittsburgh
-915,2016,Stephen F. Austin,West Virginia,Stephen F. Austin
-916,2006,Bucknell,Arkansas,Bucknell
-917,2006,Bradley,Kansas,Bradley
-918,2006,Bradley,Bradley,Pittsburgh
-919,2011,VCU,VCU,USC
-920,2011,Pittsburgh,Pittsburgh,UNC Asheville
-921,2011,Butler,Pittsburgh,Butler
-922,2011,Butler,Butler,Wisconsin
-923,2018,Kentucky,Kentucky,Davidson
-924,2018,Cincinnati,Cincinnati,Georgia State
-925,2018,Nevada,Cincinnati,Nevada
-926,2003,Marquette,Marquette,Holy Cross
-927,2003,Marquette,Marquette,Missouri
-928,2003,Missouri,Missouri,Southern Illinois
-929,2012,Gonzaga,Gonzaga,West Virginia
-930,2010,Kansas State,Kansas State,North Texas
-931,2010,Kansas State,Kansas State,BYU
-932,2010,Kansas State,Kansas State,Xavier
-933,2010,BYU,BYU,Florida
-934,2004,Vanderbilt,Vanderbilt,Western Michigan
-935,2013,Syracuse,Indiana,Syracuse
-936,2013,Syracuse,Syracuse,Marquette
-937,2013,James Madison,James Madison,LIU Brooklyn
-938,2013,Temple,NC State,Temple
-939,2013,Syracuse,Syracuse,Montana
-940,2013,Syracuse,Syracuse,California
-941,2013,California,UNLV,California
-942,2017,Oregon,Oregon,Rhode Island
-943,2017,Rhode Island,Creighton,Rhode Island
-944,2017,North Carolina,North Carolina,Texas Southern
-945,2017,North Carolina,North Carolina,Arkansas
-946,2008,San Diego,Connecticut,San Diego
-947,2008,Western Kentucky,San Diego,Western Kentucky
-948,2008,Western Kentucky,Drake,Western Kentucky
-949,2008,Duke,Duke,Belmont
-950,2005,Milwaukee,Boston College,Milwaukee
-951,2005,Milwaukee,Alabama,Milwaukee
-952,2005,Oklahoma State,Oklahoma State,Southeastern Louisiana
-953,2005,Oklahoma State,Oklahoma State,Southern Illinois
-954,2005,Arizona,Oklahoma State,Arizona
-955,2005,Southern Illinois,Southern Illinois,Saint Mary's
-956,2009,Connecticut,Connecticut,Purdue
-957,2009,Connecticut,Connecticut,Missouri
-958,2009,Texas A&M,BYU,Texas A&M
-959,2009,Washington,Washington,Mississippi State
-960,2009,Purdue,Washington,Purdue
-961,2009,Purdue,Purdue,Northern Iowa
-962,2007,Texas A&M,Texas A&M,Louisville
-963,2007,Louisville,Louisville,Stanford
-964,2014,Virginia,Virginia,Memphis
-965,2014,Michigan State,Virginia,Michigan State
-966,2014,Connecticut,Michigan State,Connecticut
-967,2014,Memphis,Memphis,George Washington
-968,2014,Michigan State,Michigan State,Delaware
-969,2014,Michigan State,Michigan State,Harvard
-970,2014,Harvard,Cincinnati,Harvard
-971,2015,Louisville,NC State,Louisville
-972,2015,Michigan State,Louisville,Michigan State
-973,2015,NC State,NC State,LSU
-974,2015,Louisville,Louisville,UC Irvine
-975,2015,Louisville,Louisville,Northern Iowa
-976,2016,Notre Dame,Stephen F. Austin,Notre Dame
-977,2016,Notre Dame,Notre Dame,Michigan
-978,2016,Michigan,Michigan,Tulsa
-979,2016,Virginia,Virginia,Hampton
-980,2006,Pittsburgh,Pittsburgh,Kent State
-981,2006,UCLA,UCLA,Belmont
-982,2006,UCLA,UCLA,Alabama
-983,2006,UCLA,UCLA,Gonzaga
-984,2006,Alabama,Marquette,Alabama
-985,2011,Butler,Butler,Florida
-986,2011,UNC Asheville,UNC Asheville,Arkansas Little Rock
-987,2011,Butler,Butler,Old Dominion
-988,2011,Wisconsin,Wisconsin,Belmont
-989,2011,Wisconsin,Wisconsin,Kansas State
-990,2011,Kansas State,Kansas State,Utah State
-991,2018,Loyola Chicago,Nevada,Loyola Chicago
-992,2018,Nevada,Nevada,Texas
-993,2018,Tennessee,Tennessee,Wright State
-994,2012,Florida State,Florida State,St. Bonaventure
-995,2012,Cincinnati,Florida State,Cincinnati
-996,2012,Cincinnati,Cincinnati,Texas
-997,2012,North Carolina,North Carolina,Vermont
-998,2010,Pittsburgh,Pittsburgh,Oakland
-999,2010,Xavier,Pittsburgh,Xavier
-1000,2010,Xavier,Xavier,Minnesota
-1001,2013,Miami (FL),Miami (FL),Pacific
-1002,2013,Miami (FL),Miami (FL),Illinois
-1003,2013,Marquette,Miami (FL),Marquette
-1004,2013,Illinois,Illinois,Colorado
-1005,2013,Marquette,Marquette,Davidson
-1006,2017,North Carolina,North Carolina,Butler
-1007,2017,North Carolina,North Carolina,Kentucky
-1008,2017,Arkansas,Arkansas,Seton Hall
-1009,2017,Butler,Butler,Winthrop
-1010,2008,West Virginia,Duke,West Virginia
-1011,2008,Xavier,West Virginia,Xavier
-1012,2008,West Virginia,West Virginia,Arizona
-1013,2008,Xavier,Xavier,Georgia
-1014,2005,Arizona,Arizona,Utah State
-1015,2005,Arizona,Arizona,UAB
-1016,2005,UAB,LSU,UAB
-1017,2009,Memphis,Memphis,Cal State Northridge
-1018,2009,Memphis,Memphis,Maryland
-1019,2009,Missouri,Memphis,Missouri
-1020,2009,Maryland,California,Maryland
-1021,2014,Villanova,Villanova,Milwaukee
-1022,2014,Connecticut,Villanova,Connecticut
-1023,2014,Connecticut,Connecticut,Iowa State
-1024,2014,Connecticut,Connecticut,Saint Joseph's
-1025,2014,Iowa State,Iowa State,North Carolina Central
-1026,2015,Northern Iowa,Northern Iowa,Wyoming
-1027,2015,Virginia,Virginia,Belmont
-1028,2015,Michigan State,Virginia,Michigan State
-1029,2015,Michigan State,Michigan State,Oklahoma
-1030,2016,Virginia,Virginia,Butler
-1031,2016,Virginia,Virginia,Iowa State
-1032,2016,Syracuse,Virginia,Syracuse
-1033,2016,Butler,Texas Tech,Butler
-1034,2016,Iowa State,Iowa State,Iona
-1035,2006,Gonzaga,Gonzaga,Xavier
-1036,2006,Gonzaga,Gonzaga,Indiana
-1037,2011,Florida,Florida,UC Santa Barbara
-1038,2011,Florida,Florida,UCLA
-1039,2011,Florida,Florida,BYU
-1040,2018,Loyola Chicago,Tennessee,Loyola Chicago
-1041,2018,Loyola Chicago,Miami (FL),Loyola Chicago
-1042,2018,Xavier,Xavier,Texas Southern
-1043,2018,Florida State,Xavier,Florida State
-1044,2012,North Carolina,North Carolina,Creighton
-1045,2012,North Carolina,North Carolina,Ohio
-1046,2012,Kansas,North Carolina,Kansas
-1047,2012,Vermont,Vermont,Lamar
-1048,2012,Creighton,Creighton,Alabama
-1049,2013,Marquette,Marquette,Butler
-1050,2013,Butler,Butler,Bucknell
-1051,2017,Butler,Butler,Middle Tennessee
-1052,2017,Middle Tennessee,Minnesota,Middle Tennessee
-1053,2017,Kentucky,Kentucky,Northern Kentucky
-1054,2017,Kentucky,Kentucky,Wichita State
-1055,2008,Xavier,Xavier,Purdue
-1056,2008,Purdue,Purdue,Baylor
-1057,2009,Missouri,Missouri,Cornell
-1058,2009,Missouri,Missouri,Marquette
-1059,2009,Marquette,Marquette,Utah State
-1060,2014,Iowa State,Iowa State,North Carolina
-1061,2014,North Carolina,North Carolina,Providence
-1062,2015,Michigan State,Michigan State,Georgia
-1063,2015,Oklahoma,Oklahoma,Albany
-1064,2015,Oklahoma,Oklahoma,Dayton
-1065,2015,Dayton,Providence,Dayton
-1066,2016,Iowa State,Iowa State,Arkansas Little Rock
-1067,2016,Arkansas Little Rock,Purdue,Arkansas Little Rock
-1068,2016,Middle Tennessee,Michigan State,Middle Tennessee
-1069,2016,Syracuse,Middle Tennessee,Syracuse
-1070,2016,Syracuse,Syracuse,Gonzaga
-1071,2016,Syracuse,Dayton,Syracuse
-1072,2006,Indiana,Indiana,San Diego State
-1073,2011,UCLA,UCLA,Michigan State
-1074,2011,BYU,BYU,Wofford
-1075,2011,BYU,BYU,Gonzaga
-1076,2011,Gonzaga,St. John's,Gonzaga
-1077,2018,Florida State,Florida State,Gonzaga
-1078,2018,Michigan,Florida State,Michigan
-1079,2018,Texas Southern,Texas Southern,North Carolina Central
-1080,2018,Florida State,Missouri,Florida State
-1081,2018,Gonzaga,Gonzaga,UNC Greensboro
-1082,2018,Gonzaga,Gonzaga,Ohio State
-1083,2018,Ohio State,Ohio State,South Dakota State
-1084,2012,Ohio,Michigan,Ohio
-1085,2012,Ohio,Ohio,South Florida
-1086,2012,South Florida,Temple,South Florida
-1087,2017,Kentucky,Kentucky,UCLA
-1088,2017,Wichita State,Dayton,Wichita State
-1089,2017,UCLA,UCLA,Kent State
-1090,2015,Dayton,Dayton,Boise State
-1091,2016,Utah,Utah,Fresno State
-1092,2018,North Carolina,North Carolina,Lipscomb
-1093,2018,Texas A&M,North Carolina,Texas A&M
-1094,2018,Michigan,Texas A&M,Michigan
-1095,2018,Texas A&M,Texas A&M,Providence
-1096,2012,South Florida,South Florida,California
-1097,2012,Kansas,Kansas,Detroit
-1098,2012,Kansas,Kansas,Purdue
-1099,2012,Kansas,Kansas,NC State
-1100,2012,Purdue,Saint Mary's,Purdue
-1101,2017,UCLA,UCLA,Cincinnati
-1102,2017,Cincinnati,Cincinnati,Kansas State
-1103,2017,Kansas State,Kansas State,Wake Forest
-1104,2016,Gonzaga,Utah,Gonzaga
-1105,2016,Gonzaga,Seton Hall,Gonzaga
-1106,2018,Michigan,Michigan,Montana
-1107,2018,Michigan,Michigan,Houston
-1108,2018,Houston,Houston,San Diego State
-1109,2012,Georgetown,Georgetown,Belmont
-1110,2012,NC State,Georgetown,NC State
-1111,2012,NC State,San Diego State,NC State
+,year,winner,team_one,team_two,score_one,score_two
+0,2002,Maryland,Maryland,Siena,85,70
+1,2002,Maryland,Maryland,Wisconsin,87,57
+2,2002,Maryland,Maryland,Kentucky,78,68
+3,2002,Maryland,Maryland,Connecticut,90,82
+4,2002,Maryland,Maryland,Kansas,97,88
+5,2002,Maryland,Maryland,Indiana,64,52
+6,2002,Siena,Siena,Alcorn State,81,77
+7,2002,Wisconsin,Wisconsin,St. John's,80,70
+8,2002,Kentucky,Kentucky,Valparaiso,83,68
+9,2002,Kentucky,Kentucky,Tulsa,87,82
+10,2002,Tulsa,Marquette,Tulsa,69,71
+11,2002,Connecticut,Connecticut,Hampton,78,67
+12,2002,Connecticut,Connecticut,NC State,77,74
+13,2002,Connecticut,Connecticut,Southern Illinois,71,59
+14,2002,NC State,NC State,Michigan State,69,58
+15,2002,Georgia,Georgia,Murray State,85,68
+16,2002,Southern Illinois,Georgia,Southern Illinois,75,77
+17,2002,Southern Illinois,Texas Tech,Southern Illinois,68,76
+18,2002,Kansas,Kansas,Holy Cross,70,59
+19,2002,Kansas,Kansas,Stanford,86,63
+20,2002,Kansas,Kansas,Illinois,73,69
+21,2002,Kansas,Kansas,Oregon,10,86
+22,2002,Stanford,Stanford,Western Kentucky,84,68
+23,2002,Illinois,Illinois,San Diego State,93,64
+24,2002,Illinois,Illinois,Creighton,72,60
+25,2002,Creighton,Florida,Creighton,83,2
+26,2002,Oregon,Oregon,Montana,81,62
+27,2002,Oregon,Oregon,Wake Forest,92,87
+28,2002,Oregon,Oregon,Texas,72,70
+29,2002,Wake Forest,Wake Forest,Pepperdine,83,74
+30,2002,Mississippi State,Mississippi State,McNeese State,70,58
+31,2002,Texas,Mississippi State,Texas,64,68
+32,2002,Texas,Texas,Boston College,70,57
+33,2003,Oklahoma,Oklahoma,South Carolina State,71,54
+34,2003,Oklahoma,Oklahoma,California,74,65
+35,2003,Oklahoma,Oklahoma,Butler,65,54
+36,2003,Syracuse,Oklahoma,Syracuse,47,63
+37,2003,Syracuse,Syracuse,Texas,95,84
+38,2003,Syracuse,Syracuse,Kansas,81,78
+39,2003,UNC Asheville,UNC Asheville,Texas Southern,92,84
+40,2003,California,California,NC State,76,74
+41,2002,Cincinnati,Cincinnati,Boston University,90,52
+42,2002,UCLA,Cincinnati,UCLA,10,2
+43,2002,Missouri,UCLA,Missouri,73,82
+44,2002,Oklahoma,Missouri,Oklahoma,75,81
+45,2002,Indiana,Oklahoma,Indiana,64,73
+46,2002,UCLA,UCLA,Mississippi,80,58
+47,2002,Ohio State,Ohio State,Davidson,69,64
+48,2002,Missouri,Ohio State,Missouri,67,83
+49,2002,Missouri,Miami (FL),Missouri,80,93
+50,2004,Saint Joseph's,Saint Joseph's,Liberty,82,63
+51,2004,Saint Joseph's,Saint Joseph's,Texas Tech,70,65
+52,2004,Saint Joseph's,Saint Joseph's,Wake Forest,84,80
+53,2004,Oklahoma State,Saint Joseph's,Oklahoma State,62,64
+54,2004,Georgia Tech,Oklahoma State,Georgia Tech,65,67
+55,2004,Connecticut,Georgia Tech,Connecticut,73,82
+56,2004,Texas Tech,Texas Tech,Charlotte,76,73
+57,2004,Wake Forest,Wake Forest,VCU,79,78
+58,2003,Louisville,Louisville,Austin Peay,86,64
+59,2003,Butler,Louisville,Butler,71,79
+60,2003,Butler,Mississippi State,Butler,46,47
+61,2003,Wake Forest,Wake Forest,East Tennessee State,76,73
+62,2003,Auburn,Wake Forest,Auburn,62,68
+63,2003,Syracuse,Auburn,Syracuse,78,79
+64,2002,Oklahoma,Oklahoma,Illinois-Chicago,71,63
+65,2002,Oklahoma,Oklahoma,Xavier,78,65
+66,2002,Oklahoma,Oklahoma,Arizona,88,67
+67,2002,Xavier,Xavier,Hawaii,70,58
+68,2002,Arizona,Arizona,UC Santa Barbara,86,81
+69,2002,Arizona,Arizona,Wyoming,68,60
+70,2002,Wyoming,Gonzaga,Wyoming,66,73
+71,2006,Connecticut,Connecticut,Albany,72,59
+72,2006,Connecticut,Connecticut,Kentucky,87,83
+73,2006,Connecticut,Connecticut,Washington,98,92
+74,2006,George Mason,Connecticut,George Mason,84,86
+75,2006,Florida,George Mason,Florida,58,73
+76,2006,Florida,Florida,UCLA,73,57
+77,2006,Kentucky,Kentucky,UAB,69,64
+78,2006,Illinois,Illinois,Air Force,78,69
+79,2004,Wake Forest,Wake Forest,Manhattan,84,80
+80,2004,Manhattan,Florida,Manhattan,60,75
+81,2004,Oklahoma State,Oklahoma State,Eastern Washington,75,56
+82,2004,Oklahoma State,Oklahoma State,Memphis,70,53
+83,2004,Oklahoma State,Oklahoma State,Pittsburgh,63,51
+84,2004,Memphis,Memphis,South Carolina,59,43
+85,2004,Pittsburgh,Pittsburgh,UCF,53,44
+86,2004,Pittsburgh,Pittsburgh,Wisconsin,59,55
+87,2007,Florida,Florida,Jackson State,112,69
+88,2007,Florida,Florida,Purdue,74,67
+89,2007,Florida,Florida,Butler,65,57
+90,2007,Florida,Florida,Oregon,85,77
+91,2007,Florida,Florida,UCLA,76,66
+92,2007,Florida,Florida,Ohio State,84,75
+93,2007,Purdue,Arizona,Purdue,63,72
+94,2003,Auburn,Saint Joseph's,Auburn,63,65
+95,2003,Syracuse,Syracuse,Manhattan,76,65
+96,2003,Syracuse,Syracuse,Oklahoma State,68,56
+97,2003,Oklahoma State,Oklahoma State,Penn,77,63
+98,2003,Texas,Texas,UNC Asheville,82,61
+99,2003,Texas,Texas,Purdue,77,67
+100,2003,Texas,Texas,Connecticut,82,78
+101,2003,Texas,Texas,Michigan State,85,76
+102,2003,Purdue,LSU,Purdue,56,80
+103,2008,North Carolina,North Carolina,Mount St. Mary's,113,74
+104,2008,North Carolina,North Carolina,Arkansas,10,77
+105,2008,North Carolina,North Carolina,Washington State,68,47
+106,2008,North Carolina,North Carolina,Louisville,83,73
+107,2008,Kansas,North Carolina,Kansas,66,84
+108,2008,Kansas,Kansas,Memphis,75,68
+109,2008,Mount St. Mary's,Mount St. Mary's,Coppin State,69,60
+110,2008,Arkansas,Indiana,Arkansas,72,86
+111,2008,Washington State,Washington State,Winthrop,71,40
+112,2002,Duke,Duke,Winthrop,84,37
+113,2002,Duke,Duke,Notre Dame,84,77
+114,2002,Indiana,Duke,Indiana,73,74
+115,2002,Indiana,Indiana,Kent State,81,69
+116,2002,Notre Dame,Notre Dame,Charlotte,82,63
+117,2002,UNC Wilmington,USC,UNC Wilmington,89,93
+118,2002,Indiana,UNC Wilmington,Indiana,67,76
+119,2002,Indiana,Indiana,Utah,75,56
+120,2009,Pittsburgh,Pittsburgh,East Tennessee State,72,62
+121,2009,Pittsburgh,Pittsburgh,Oklahoma State,84,76
+122,2009,Pittsburgh,Pittsburgh,Xavier,60,55
+123,2009,Villanova,Pittsburgh,Villanova,76,78
+124,2009,North Carolina,Villanova,North Carolina,69,83
+125,2009,North Carolina,North Carolina,Michigan State,89,72
+126,2009,Oklahoma State,Oklahoma State,Tennessee,77,75
+127,2009,Xavier,Xavier,Portland State,77,59
+128,2006,Washington,Illinois,Washington,64,67
+129,2006,Washington,Washington,Utah State,75,61
+130,2006,Tennessee,Tennessee,Winthrop,63,61
+131,2006,Wichita State,Tennessee,Wichita State,73,80
+132,2006,George Mason,Wichita State,George Mason,55,63
+133,2006,Wichita State,Wichita State,Seton Hall,86,66
+134,2006,North Carolina,North Carolina,Murray State,69,65
+135,2006,George Mason,North Carolina,George Mason,60,65
+136,2006,George Mason,Michigan State,George Mason,65,75
+137,2004,Wisconsin,Wisconsin,Richmond,76,64
+138,2004,Kentucky,Kentucky,Florida A&M,96,76
+139,2004,UAB,Kentucky,UAB,75,76
+140,2004,Kansas,UAB,Kansas,74,100
+141,2004,Georgia Tech,Kansas,Georgia Tech,71,79
+142,2004,Florida A&M,Florida A&M,Lehigh,72,57
+143,2004,UAB,Washington,UAB,10,102
+144,2004,Kansas,Kansas,Illinois-Chicago,78,53
+145,2004,Kansas,Kansas,Pacific,78,63
+146,2004,Pacific,Providence,Pacific,58,66
+147,2007,Maryland,Maryland,Davidson,82,70
+148,2007,Butler,Maryland,Butler,59,62
+149,2007,Butler,Butler,Old Dominion,57,46
+150,2007,Wisconsin,Wisconsin,Texas A&M-Corpus Christi,76,63
+151,2007,UNLV,Wisconsin,UNLV,68,74
+152,2007,Oregon,Oregon,UNLV,76,72
+153,2003,Stanford,Stanford,San Diego,77,69
+154,2003,Connecticut,Stanford,Connecticut,74,85
+155,2003,Connecticut,Connecticut,BYU,58,53
+156,2003,Florida,Florida,Sam Houston State,85,55
+157,2003,Michigan State,Florida,Michigan State,46,68
+158,2003,Michigan State,Michigan State,Maryland,60,58
+159,2003,Michigan State,Michigan State,Colorado,79,64
+160,2003,Xavier,Xavier,Troy State,71,59
+161,2005,North Carolina,North Carolina,Oakland,96,68
+162,2005,North Carolina,North Carolina,Iowa State,92,65
+163,2005,North Carolina,North Carolina,Villanova,67,66
+164,2005,North Carolina,North Carolina,Wisconsin,88,82
+165,2005,North Carolina,North Carolina,Michigan State,87,71
+166,2005,North Carolina,North Carolina,Illinois,75,70
+167,2005,Oakland,Oakland,Alabama A&M,79,69
+168,2005,Iowa State,Minnesota,Iowa State,53,64
+169,2005,Florida,Florida,Ohio,67,62
+170,2008,Washington State,Washington State,Notre Dame,61,41
+171,2008,Notre Dame,Notre Dame,George Mason,68,50
+172,2008,Tennessee,Tennessee,American,72,57
+173,2008,Tennessee,Tennessee,Butler,76,71
+174,2008,Louisville,Tennessee,Louisville,60,79
+175,2008,Butler,Butler,South Alabama,81,61
+176,2008,Louisville,Louisville,Boise State,79,61
+177,2008,Louisville,Louisville,Oklahoma,78,48
+178,2010,Kentucky,Kentucky,East Tennessee State,100,71
+179,2010,Kentucky,Kentucky,Wake Forest,90,60
+180,2010,Kentucky,Kentucky,Cornell,62,45
+181,2010,West Virginia,Kentucky,West Virginia,66,73
+182,2010,Duke,West Virginia,Duke,57,78
+183,2010,Duke,Duke,Butler,61,59
+184,2010,Wake Forest,Texas,Wake Forest,80,81
+185,2010,Wisconsin,Wisconsin,Wofford,53,49
+186,2010,Cornell,Wisconsin,Cornell,69,87
+187,2002,Alabama,Alabama,Florida Atlantic,86,78
+188,2002,Kent State,Alabama,Kent State,58,71
+189,2002,Kent State,Kent State,Pittsburgh,78,73
+190,2002,Kent State,Oklahoma State,Kent State,61,69
+191,2002,Pittsburgh,Pittsburgh,Central Connecticut State,71,54
+192,2002,Pittsburgh,Pittsburgh,California,63,50
+193,2002,California,California,Penn,82,75
+194,2009,Xavier,Xavier,Wisconsin,60,49
+195,2009,Wisconsin,Florida State,Wisconsin,59,61
+196,2009,Duke,Duke,Binghamton,86,62
+197,2006,Villanova,Villanova,Monmouth,58,45
+198,2006,Villanova,Villanova,Arizona,82,78
+199,2006,Villanova,Villanova,Boston College,60,59
+200,2006,Florida,Villanova,Florida,62,75
+201,2006,Monmouth,Monmouth,Hampton,71,49
+202,2006,Arizona,Arizona,Wisconsin,94,75
+203,2006,Boston College,Boston College,Pacific,76,2
+204,2006,Boston College,Boston College,Montana,69,56
+205,2006,Montana,Nevada,Montana,79,87
+206,2004,Gonzaga,Gonzaga,Valparaiso,76,49
+207,2004,Nevada,Gonzaga,Nevada,72,91
+208,2004,Georgia Tech,Nevada,Georgia Tech,67,72
+209,2004,Nevada,Michigan State,Nevada,66,72
+210,2004,Georgia Tech,Georgia Tech,Northern Iowa,65,60
+211,2004,Georgia Tech,Georgia Tech,Boston College,57,54
+212,2004,Boston College,Boston College,Utah,58,51
+213,2007,UNLV,UNLV,Georgia Tech,67,63
+214,2007,Oregon,Oregon,Miami OH,58,56
+215,2007,Oregon,Oregon,Winthrop,75,61
+216,2007,Winthrop,Notre Dame,Winthrop,64,74
+217,2007,Kansas,Kansas,Niagara,107,67
+218,2007,Kansas,Kansas,Kentucky,88,76
+219,2007,Kansas,Kansas,Southern Illinois,61,58
+220,2003,Maryland,Xavier,Maryland,64,77
+221,2003,Maryland,Maryland,UNC Wilmington,75,73
+222,2003,Arizona,Arizona,Vermont,80,51
+223,2003,Arizona,Arizona,Gonzaga,95,2
+224,2003,Arizona,Arizona,Notre Dame,88,71
+225,2003,Kansas,Arizona,Kansas,75,78
+226,2003,Kansas,Kansas,Marquette,94,61
+227,2003,Gonzaga,Cincinnati,Gonzaga,69,74
+228,2003,Illinois,Illinois,Western Kentucky,65,60
+229,2003,Notre Dame,Illinois,Notre Dame,60,68
+230,2011,Ohio State,Ohio State,UTSA,75,46
+231,2011,Ohio State,Ohio State,George Mason,98,66
+232,2011,Kentucky,Ohio State,Kentucky,60,62
+233,2011,Kentucky,Kentucky,North Carolina,76,69
+234,2011,Connecticut,Kentucky,Connecticut,55,56
+235,2011,Connecticut,Connecticut,Butler,53,41
+236,2011,UTSA,UTSA,Alabama State,70,61
+237,2011,George Mason,George Mason,Villanova,61,57
+238,2005,Villanova,Florida,Villanova,65,76
+239,2005,Villanova,Villanova,New Mexico,55,47
+240,2005,Connecticut,Connecticut,UCF,77,71
+241,2005,NC State,Connecticut,NC State,62,65
+242,2005,Wisconsin,NC State,Wisconsin,56,65
+243,2005,NC State,Charlotte,NC State,63,75
+244,2005,Bucknell,Kansas,Bucknell,63,64
+245,2005,Wisconsin,Bucknell,Wisconsin,62,71
+246,2008,Oklahoma,Oklahoma,Saint Joseph's,72,64
+247,2008,Kansas,Kansas,Portland State,85,61
+248,2008,Kansas,Kansas,UNLV,75,56
+249,2008,Kansas,Kansas,Villanova,72,57
+250,2008,Kansas,Kansas,Davidson,59,57
+251,2008,UNLV,UNLV,Kent State,71,58
+252,2008,Siena,Vanderbilt,Siena,62,83
+253,2008,Villanova,Siena,Villanova,72,84
+254,2008,Villanova,Clemson,Villanova,69,75
+255,2010,Cornell,Temple,Cornell,65,78
+256,2010,West Virginia,West Virginia,Morgan State,77,50
+257,2010,West Virginia,West Virginia,Missouri,68,59
+258,2010,West Virginia,West Virginia,Washington,69,56
+259,2010,Missouri,Clemson,Missouri,78,86
+260,2010,New Mexico,New Mexico,Montana,62,57
+261,2010,Washington,New Mexico,Washington,64,82
+262,2010,Washington,Marquette,Washington,78,80
+263,2012,Kentucky,Kentucky,Western Kentucky,81,66
+264,2012,Kentucky,Kentucky,Iowa State,87,71
+265,2012,Kentucky,Kentucky,Indiana,10,90
+266,2012,Kentucky,Kentucky,Baylor,82,70
+267,2012,Kentucky,Kentucky,Louisville,69,61
+268,2012,Kentucky,Kentucky,Kansas,67,59
+269,2012,Western Kentucky,Western Kentucky,Mississippi Valley State,59,58
+270,2012,Iowa State,Iowa State,Connecticut,77,64
+271,2009,Duke,Duke,Texas,74,69
+272,2009,Villanova,Duke,Villanova,54,77
+273,2009,Texas,Texas,Minnesota,76,62
+274,2009,Villanova,Villanova,American,80,67
+275,2009,Villanova,Villanova,UCLA,89,69
+276,2009,UCLA,UCLA,VCU,65,64
+277,2013,Louisville,Louisville,North Carolina A&T,79,48
+278,2013,Louisville,Louisville,Colorado State,83,55
+279,2013,Louisville,Louisville,Oregon,77,69
+280,2013,Louisville,Louisville,Duke,85,63
+281,2013,Louisville,Louisville,Wichita State,72,68
+282,2013,Louisville,Louisville,Michigan,82,76
+283,2013,North Carolina A&T,North Carolina A&T,Liberty,73,72
+284,2014,Wichita State,Wichita State,Cal Poly,64,37
+285,2015,Kentucky,Kentucky,Hampton,79,56
+286,2015,Kentucky,Kentucky,Cincinnati,64,51
+287,2015,Kentucky,Kentucky,West Virginia,78,39
+288,2016,Kansas,Kansas,Austin Peay,105,79
+289,2016,Kansas,Kansas,Connecticut,73,61
+290,2016,Kansas,Kansas,Maryland,79,63
+291,2016,Villanova,Kansas,Villanova,59,64
+292,2016,Villanova,Villanova,Oklahoma,95,51
+293,2016,Villanova,Villanova,North Carolina,77,74
+294,2016,Connecticut,Colorado,Connecticut,67,74
+295,2016,Hawaii,California,Hawaii,66,77
+296,2006,Ohio State,Ohio State,Davidson,70,62
+297,2006,Georgetown,Ohio State,Georgetown,52,70
+298,2006,Florida,Georgetown,Florida,53,57
+299,2006,Georgetown,Georgetown,Northern Iowa,54,49
+300,2017,Villanova,Villanova,Mount St. Mary's,75,56
+301,2017,Wisconsin,Villanova,Wisconsin,62,65
+302,2017,Florida,Wisconsin,Florida,83,84
+303,2004,Duke,Duke,Alabama State,96,61
+304,2004,Duke,Duke,Seton Hall,90,62
+305,2004,Duke,Duke,Illinois,72,62
+306,2004,Duke,Duke,Xavier,66,63
+307,2004,Connecticut,Duke,Connecticut,78,79
+308,2004,Seton Hall,Seton Hall,Arizona,80,76
+309,2007,UCLA,Kansas,UCLA,55,68
+310,2007,Niagara,Niagara,Florida A&M,74,66
+311,2007,Kentucky,Kentucky,Villanova,67,58
+312,2007,Southern Illinois,Southern Illinois,Holy Cross,61,51
+313,2007,Southern Illinois,Southern Illinois,Virginia Tech,63,48
+314,2007,Virginia Tech,Virginia Tech,Illinois,54,52
+315,2003,Notre Dame,Notre Dame,Milwaukee,70,69
+316,2003,Kansas,Kansas,Utah State,64,61
+317,2003,Kansas,Kansas,Arizona State,108,76
+318,2003,Kansas,Kansas,Duke,69,65
+319,2003,Arizona State,Memphis,Arizona State,71,84
+320,2003,Duke,Duke,Colorado State,67,57
+321,2011,Kentucky,Kentucky,Princeton,59,57
+322,2011,Kentucky,Kentucky,West Virginia,71,63
+323,2011,West Virginia,West Virginia,Clemson,84,76
+324,2011,Clemson,Clemson,UAB,70,52
+325,2011,North Carolina,North Carolina,LIU Brooklyn,102,87
+326,2011,North Carolina,North Carolina,Washington,86,83
+327,2011,North Carolina,North Carolina,Marquette,81,63
+328,2011,Washington,Washington,Georgia,68,65
+329,2005,Wisconsin,Wisconsin,Northern Iowa,57,52
+330,2005,Duke,Duke,Delaware State,57,46
+331,2005,Duke,Duke,Mississippi State,63,55
+332,2005,Michigan State,Duke,Michigan State,68,78
+333,2005,Michigan State,Michigan State,Kentucky,88,2
+334,2005,Mississippi State,Stanford,Mississippi State,70,93
+335,2005,Vermont,Syracuse,Vermont,57,60
+336,2005,Michigan State,Vermont,Michigan State,61,72
+337,2005,Michigan State,Michigan State,Old Dominion,89,81
+338,2008,Georgetown,Georgetown,UMBC,66,47
+339,2008,Davidson,Georgetown,Davidson,70,74
+340,2008,Davidson,Davidson,Wisconsin,73,56
+341,2008,Davidson,Gonzaga,Davidson,76,82
+342,2008,Wisconsin,Wisconsin,Cal State Fullerton,71,56
+343,2008,Wisconsin,Wisconsin,Kansas State,72,55
+344,2008,Kansas State,USC,Kansas State,67,80
+345,2008,Memphis,Memphis,UT Arlington,87,63
+346,2010,Duke,Duke,Arkansas Pine Bluff,73,44
+347,2010,Duke,Duke,California,68,53
+348,2010,Duke,Duke,Purdue,70,57
+349,2010,Duke,Duke,Baylor,78,71
+350,2010,Arkansas Pine Bluff,Arkansas Pine Bluff,Winthrop,61,44
+351,2010,California,California,Louisville,77,62
+352,2010,Purdue,Purdue,Siena,72,64
+353,2018,Villanova,Villanova,Radford,87,61
+354,2018,Villanova,Villanova,Alabama,81,58
+355,2018,Villanova,Villanova,West Virginia,90,78
+356,2018,Villanova,Villanova,Texas Tech,71,59
+357,2018,Villanova,Villanova,Kansas,95,79
+358,2018,Villanova,Villanova,Michigan,79,62
+359,2018,Radford,Radford,LIU Brooklyn,71,61
+360,2018,Alabama,Virginia Tech,Alabama,83,86
+361,2018,Marshall,Wichita State,Marshall,75,81
+362,2018,West Virginia,Marshall,West Virginia,71,94
+363,2012,Indiana,Indiana,New Mexico State,79,66
+364,2012,Indiana,Indiana,VCU,63,61
+365,2012,VCU,Wichita State,VCU,59,62
+366,2012,Lehigh,Duke,Lehigh,70,75
+367,2012,Xavier,Lehigh,Xavier,58,70
+368,2012,Baylor,Xavier,Baylor,70,75
+369,2009,North Carolina,North Carolina,Radford,101,58
+370,2009,North Carolina,North Carolina,LSU,84,70
+371,2009,North Carolina,North Carolina,Gonzaga,98,77
+372,2009,North Carolina,North Carolina,Oklahoma,72,60
+373,2009,LSU,LSU,Butler,75,71
+374,2009,Gonzaga,Gonzaga,Akron,77,64
+375,2009,Gonzaga,Gonzaga,Western Kentucky,83,81
+376,2013,Colorado State,Colorado State,Missouri,84,72
+377,2013,Saint Louis,Saint Louis,New Mexico State,64,44
+378,2013,Oregon,Saint Louis,Oregon,57,74
+379,2013,Oregon,Oklahoma State,Oregon,55,68
+380,2013,Duke,Duke,Albany,73,61
+381,2013,Duke,Duke,Creighton,66,50
+382,2013,Duke,Duke,Michigan State,71,61
+383,2013,Creighton,Creighton,Cincinnati,67,63
+384,2014,Kentucky,Wichita State,Kentucky,76,78
+385,2014,Kentucky,Kentucky,Louisville,74,69
+386,2014,Kentucky,Kentucky,Michigan,75,72
+387,2014,Kentucky,Kentucky,Wisconsin,74,73
+388,2014,Connecticut,Kentucky,Connecticut,54,60
+389,2014,Cal Poly,Cal Poly,Texas Southern,81,69
+390,2014,Kentucky,Kentucky,Kansas State,56,49
+391,2014,Louisville,Louisville,Manhattan,71,64
+392,2014,Louisville,Louisville,Saint Louis,66,51
+393,2015,Kentucky,Kentucky,Notre Dame,68,66
+394,2015,Wisconsin,Kentucky,Wisconsin,64,71
+395,2015,Duke,Wisconsin,Duke,63,68
+396,2015,Hampton,Hampton,Manhattan,74,64
+397,2015,Cincinnati,Cincinnati,Purdue,66,65
+398,2015,Maryland,Maryland,Valparaiso,65,62
+399,2015,West Virginia,Maryland,West Virginia,59,69
+400,2015,West Virginia,West Virginia,Buffalo,68,62
+401,2015,Kansas,Kansas,New Mexico State,75,56
+402,2016,Maryland,Hawaii,Maryland,60,73
+403,2016,Maryland,Maryland,South Dakota State,79,74
+404,2016,Villanova,Villanova,UNC Asheville,86,56
+405,2016,Villanova,Villanova,Iowa,87,68
+406,2016,Villanova,Villanova,Miami (FL),92,69
+407,2016,Iowa,Iowa,Temple,72,70
+408,2016,Miami (FL),Miami (FL),Buffalo,79,72
+409,2016,Miami (FL),Miami (FL),Wichita State,65,57
+410,2016,Wichita State,Arizona,Wichita State,55,65
+411,2006,Florida,Florida,South Alabama,76,50
+412,2006,Florida,Florida,Milwaukee,82,60
+413,2006,Milwaukee,Oklahoma,Milwaukee,74,82
+414,2006,Duke,Duke,Southern,80,64
+415,2017,South Carolina,Florida,South Carolina,70,77
+416,2017,Gonzaga,South Carolina,Gonzaga,73,77
+417,2017,North Carolina,Gonzaga,North Carolina,65,71
+418,2017,Mount St. Mary's,Mount St. Mary's,New Orleans,67,66
+419,2017,Wisconsin,Wisconsin,Virginia Tech,84,74
+420,2017,Florida,Florida,East Tennessee State,80,65
+421,2004,Cincinnati,Cincinnati,East Tennessee State,80,77
+422,2004,Illinois,Cincinnati,Illinois,68,92
+423,2004,Illinois,Illinois,Murray State,72,53
+424,2004,Mississippi State,Mississippi State,Monmouth,85,52
+425,2004,Xavier,Mississippi State,Xavier,74,89
+426,2004,Xavier,Xavier,Texas,79,71
+427,2004,Xavier,Xavier,Louisville,80,70
+428,2004,Texas,Texas,Princeton,66,49
+429,2007,UCLA,UCLA,Weber State,70,42
+430,2007,UCLA,UCLA,Indiana,54,49
+431,2007,UCLA,UCLA,Pittsburgh,64,55
+432,2007,Indiana,Indiana,Gonzaga,70,57
+433,2007,Pittsburgh,Pittsburgh,Wright State,79,58
+434,2003,Duke,Duke,Central Michigan,86,60
+435,2003,Central Michigan,Creighton,Central Michigan,73,79
+436,2003,Kentucky,Kentucky,IUPUI,95,64
+437,2003,Kentucky,Kentucky,Utah,74,54
+438,2003,Kentucky,Kentucky,Wisconsin,63,57
+439,2003,Marquette,Kentucky,Marquette,69,83
+440,2003,Utah,Oregon,Utah,58,60
+441,2003,Tulsa,Dayton,Tulsa,71,84
+442,2011,Syracuse,Syracuse,Indiana State,77,60
+443,2011,Marquette,Syracuse,Marquette,62,66
+444,2011,Marquette,Xavier,Marquette,55,66
+445,2011,Duke,Duke,Hampton,87,45
+446,2011,Duke,Duke,Michigan,73,71
+447,2011,Arizona,Duke,Arizona,77,93
+448,2011,Connecticut,Arizona,Connecticut,63,65
+449,2011,Michigan,Michigan,Tennessee,75,45
+450,2005,Kentucky,Kentucky,Eastern Kentucky,72,64
+451,2005,Kentucky,Kentucky,Cincinnati,69,60
+452,2005,Kentucky,Kentucky,Utah,62,52
+453,2005,Cincinnati,Cincinnati,Iowa,76,64
+454,2005,Oklahoma,Oklahoma,Niagara,84,67
+455,2005,Utah,Oklahoma,Utah,58,67
+456,2005,Utah,Utah,UTEP,60,54
+457,2008,Memphis,Memphis,Mississippi State,77,74
+458,2008,Memphis,Memphis,Michigan State,92,74
+459,2008,Memphis,Memphis,Texas,85,67
+460,2008,Memphis,Memphis,UCLA,78,63
+461,2008,Mississippi State,Mississippi State,Oregon,76,69
+462,2008,Pittsburgh,Pittsburgh,Oral Roberts,82,63
+463,2008,Michigan State,Pittsburgh,Michigan State,54,65
+464,2008,Michigan State,Michigan State,Temple,72,61
+465,2008,Texas,Texas,Austin Peay,74,54
+466,2008,Texas,Texas,Miami (FL),75,72
+467,2010,Purdue,Purdue,Texas A&M,63,61
+468,2010,Texas A&M,Texas A&M,Utah State,69,53
+469,2010,Villanova,Villanova,Robert Morris,73,70
+470,2010,Saint Mary's,Villanova,Saint Mary's,68,75
+471,2010,Baylor,Saint Mary's,Baylor,49,72
+472,2010,Saint Mary's,Richmond,Saint Mary's,71,80
+473,2010,Baylor,Baylor,Sam Houston State,68,59
+474,2010,Baylor,Baylor,Old Dominion,76,68
+475,2010,Old Dominion,Notre Dame,Old Dominion,50,51
+476,2018,West Virginia,West Virginia,Murray State,85,68
+477,2018,Purdue,Purdue,Cal State Fullerton,74,48
+478,2018,Purdue,Purdue,Butler,76,73
+479,2018,Texas Tech,Purdue,Texas Tech,65,78
+480,2012,Xavier,Notre Dame,Xavier,63,67
+481,2012,Baylor,Baylor,South Dakota State,68,60
+482,2012,Baylor,Baylor,Colorado,80,63
+483,2012,Colorado,UNLV,Colorado,64,68
+484,2012,Michigan State,Michigan State,LIU Brooklyn,89,67
+485,2009,Western Kentucky,Illinois,Western Kentucky,72,76
+486,2009,Oklahoma,Oklahoma,Morgan State,82,54
+487,2009,Oklahoma,Oklahoma,Michigan,73,63
+488,2009,Oklahoma,Oklahoma,Syracuse,84,71
+489,2009,Michigan,Clemson,Michigan,59,62
+490,2009,Syracuse,Syracuse,Stephen F. Austin,59,44
+491,2013,Michigan State,Michigan State,Valparaiso,65,54
+492,2013,Michigan State,Michigan State,Memphis,70,48
+493,2013,Memphis,Memphis,Saint Mary's,54,52
+494,2013,Saint Mary's,Saint Mary's,Middle Tennessee,67,54
+495,2013,Gonzaga,Gonzaga,Southern,64,58
+496,2014,Saint Louis,Saint Louis,NC State,83,80
+497,2014,NC State,NC State,Xavier,74,59
+498,2014,Michigan,Michigan,Wofford,57,40
+499,2014,Michigan,Michigan,Texas,85,77
+500,2014,Michigan,Michigan,Tennessee,73,71
+501,2014,Texas,Texas,Arizona State,87,85
+502,2014,Mercer,Duke,Mercer,71,78
+503,2015,Wichita State,Kansas,Wichita State,65,78
+504,2015,Notre Dame,Wichita State,Notre Dame,70,81
+505,2015,Wichita State,Wichita State,Indiana,81,76
+506,2015,Notre Dame,Notre Dame,Northeastern,69,65
+507,2015,Notre Dame,Notre Dame,Butler,67,64
+508,2015,Butler,Butler,Texas,56,48
+509,2015,Wisconsin,Wisconsin,Coastal Carolina,86,72
+510,2016,Wichita State,Wichita State,Vanderbilt,70,50
+511,2016,Oregon,Oregon,Holy Cross,91,52
+512,2016,Oregon,Oregon,Saint Joseph's,69,64
+513,2016,Oregon,Oregon,Duke,82,68
+514,2016,Oklahoma,Oregon,Oklahoma,68,80
+515,2016,Holy Cross,Holy Cross,Southern,59,55
+516,2016,Saint Joseph's,Saint Joseph's,Cincinnati,78,76
+517,2016,Duke,Duke,UNC Wilmington,93,85
+518,2006,Duke,Duke,George Washington,71,64
+519,2006,LSU,Duke,LSU,54,62
+520,2006,LSU,LSU,Texas,70,60
+521,2006,UCLA,LSU,UCLA,45,59
+522,2006,George Washington,George Washington,UNC Wilmington,88,85
+523,2006,LSU,LSU,Iona,80,64
+524,2006,LSU,LSU,Texas A&M,58,57
+525,2006,Texas A&M,Syracuse,Texas A&M,58,66
+526,2006,Texas,Texas,Penn,60,52
+527,2017,Florida,Florida,Virginia,65,39
+528,2017,Virginia,Virginia,UNC Wilmington,76,71
+529,2017,Duke,Duke,Troy State,87,65
+530,2017,South Carolina,Duke,South Carolina,81,88
+531,2017,South Carolina,South Carolina,Baylor,70,50
+532,2017,South Carolina,South Carolina,Marquette,93,73
+533,2017,Baylor,Baylor,New Mexico State,91,73
+534,2004,Texas,Texas,North Carolina,78,75
+535,2004,North Carolina,North Carolina,Air Force,63,52
+536,2004,Stanford,Stanford,UTSA,71,45
+537,2004,Alabama,Stanford,Alabama,67,70
+538,2004,Alabama,Alabama,Syracuse,80,71
+539,2004,Connecticut,Alabama,Connecticut,71,87
+540,2004,Alabama,Alabama,Southern Illinois,65,64
+541,2007,Pittsburgh,Pittsburgh,VCU,84,79
+542,2007,VCU,Duke,VCU,77,79
+543,2007,North Carolina,North Carolina,Eastern Kentucky,86,65
+544,2007,North Carolina,North Carolina,Michigan State,81,67
+545,2007,North Carolina,North Carolina,USC,74,64
+546,2007,Georgetown,North Carolina,Georgetown,84,96
+547,2007,Ohio State,Georgetown,Ohio State,60,67
+548,2007,Michigan State,Marquette,Michigan State,49,61
+549,2007,Texas,Texas,New Mexico State,79,67
+550,2003,Wisconsin,Tulsa,Wisconsin,60,61
+551,2003,Wisconsin,Wisconsin,Weber State,81,74
+552,2003,Pittsburgh,Pittsburgh,Wagner,87,61
+553,2003,Pittsburgh,Pittsburgh,Indiana,74,52
+554,2003,Marquette,Pittsburgh,Marquette,74,77
+555,2003,Indiana,Indiana,Alabama,67,62
+556,2003,Marquette,Marquette,Holy Cross,72,68
+557,2003,Marquette,Marquette,Missouri,10,92
+558,2011,Texas,Texas,Oakland,85,81
+559,2011,Arizona,Texas,Arizona,69,70
+560,2011,Arizona,Arizona,Memphis,77,75
+561,2011,San Diego State,San Diego State,Northern Colorado,68,50
+562,2005,Washington,Washington,Montana,88,77
+563,2005,Washington,Washington,Pacific,97,79
+564,2005,Louisville,Washington,Louisville,79,93
+565,2005,Louisville,Louisville,West Virginia,93,85
+566,2005,Illinois,Louisville,Illinois,57,72
+567,2005,Pacific,Pacific,Pittsburgh,79,71
+568,2005,Louisville,Louisville,Louisiana Lafayette,68,62
+569,2005,Louisville,Louisville,Georgia Tech,76,54
+570,2005,Georgia Tech,Georgia Tech,George Washington,80,68
+571,2008,Texas,Texas,Stanford,82,62
+572,2008,Miami (FL),Miami (FL),Saint Mary's,78,64
+573,2008,Stanford,Stanford,Cornell,77,53
+574,2008,Stanford,Stanford,Marquette,82,81
+575,2008,Marquette,Marquette,Kentucky,74,66
+576,2008,UCLA,UCLA,Mississippi Valley State,70,29
+577,2008,UCLA,UCLA,Texas A&M,51,49
+578,2008,UCLA,UCLA,Western Kentucky,88,78
+579,2008,UCLA,UCLA,Xavier,76,57
+580,2008,Texas A&M,BYU,Texas A&M,62,67
+581,2010,Kansas,Kansas,Lehigh,90,74
+582,2010,Northern Iowa,Kansas,Northern Iowa,67,69
+583,2010,Michigan State,Northern Iowa,Michigan State,52,59
+584,2010,Michigan State,Michigan State,Tennessee,70,69
+585,2010,Butler,Michigan State,Butler,50,52
+586,2010,Northern Iowa,UNLV,Northern Iowa,66,69
+587,2010,Maryland,Maryland,Houston,89,77
+588,2018,Butler,Arkansas,Butler,62,79
+589,2018,Texas Tech,Texas Tech,Stephen F. Austin,70,60
+590,2018,Texas Tech,Texas Tech,Florida,69,66
+591,2018,Florida,Florida,St. Bonaventure,77,62
+592,2018,St. Bonaventure,St. Bonaventure,UCLA,65,58
+593,2012,Michigan State,Michigan State,Saint Louis,65,61
+594,2012,Louisville,Michigan State,Louisville,44,57
+595,2012,Louisville,Louisville,Florida,72,68
+596,2012,Saint Louis,Memphis,Saint Louis,54,61
+597,2012,Louisville,Louisville,Davidson,69,62
+598,2012,Louisville,Louisville,New Mexico,59,56
+599,2012,New Mexico,New Mexico,Long Beach State,75,68
+600,2012,Norfolk State,Missouri,Norfolk State,84,86
+601,2012,Florida,Norfolk State,Florida,50,84
+602,2009,Syracuse,Syracuse,Arizona State,78,67
+603,2009,Arizona State,Arizona State,Temple,66,57
+604,2009,Louisville,Louisville,Morehead State,74,54
+605,2009,Louisville,Louisville,Siena,79,72
+606,2009,Louisville,Louisville,Arizona,103,64
+607,2009,Michigan State,Louisville,Michigan State,52,64
+608,2009,Michigan State,Michigan State,Connecticut,82,73
+609,2009,Morehead State,Morehead State,Alabama State,58,43
+610,2009,Siena,Ohio State,Siena,74,2
+611,2013,Wichita State,Gonzaga,Wichita State,70,76
+612,2013,Wichita State,Wichita State,La Salle,72,58
+613,2013,Wichita State,Wichita State,Ohio State,70,66
+614,2013,Wichita State,Pittsburgh,Wichita State,55,73
+615,2013,La Salle,Kansas State,La Salle,61,63
+616,2013,La Salle,La Salle,Mississippi,76,74
+617,2013,La Salle,La Salle,Boise State,80,71
+618,2013,Mississippi,Wisconsin,Mississippi,46,57
+619,2014,Tennessee,Mercer,Tennessee,63,83
+620,2014,Tennessee,Massachusetts,Tennessee,67,86
+621,2014,Tennessee,Tennessee,Iowa,78,65
+622,2014,Arizona,Arizona,Weber State,68,59
+623,2014,Arizona,Arizona,Gonzaga,84,61
+624,2014,Arizona,Arizona,San Diego State,70,64
+625,2014,Wisconsin,Arizona,Wisconsin,63,64
+626,2015,Wisconsin,Wisconsin,Oregon,72,65
+627,2015,Wisconsin,Wisconsin,North Carolina,79,72
+628,2015,Wisconsin,Wisconsin,Arizona,85,78
+629,2015,Oregon,Oregon,Oklahoma State,79,73
+630,2015,North Carolina,North Carolina,Harvard,67,65
+631,2015,North Carolina,North Carolina,Arkansas,87,78
+632,2016,Duke,Duke,Yale,71,64
+633,2016,Yale,Baylor,Yale,75,79
+634,2016,Oklahoma,Oklahoma,Cal State Bakersfield,82,68
+635,2016,Oklahoma,Oklahoma,VCU,85,81
+636,2016,Oklahoma,Oklahoma,Texas A&M,77,63
+637,2016,VCU,Oregon State,VCU,67,75
+638,2016,Texas A&M,Texas A&M,Green Bay,92,65
+639,2006,Texas,Texas,NC State,75,54
+640,2006,Texas,Texas,West Virginia,74,71
+641,2006,NC State,California,NC State,52,58
+642,2006,Northwestern State,Iowa,Northwestern State,63,64
+643,2006,West Virginia,Northwestern State,West Virginia,54,67
+644,2006,West Virginia,West Virginia,Southern Illinois,64,46
+645,2006,Memphis,Memphis,Oral Roberts,94,78
+646,2017,Baylor,Baylor,USC,82,78
+647,2017,USC,SMU,USC,65,66
+648,2017,USC,USC,Providence,75,71
+649,2017,Gonzaga,Gonzaga,South Dakota State,66,46
+650,2017,Gonzaga,Gonzaga,Northwestern,79,73
+651,2017,Gonzaga,Gonzaga,West Virginia,61,58
+652,2017,Gonzaga,Gonzaga,Xavier,83,59
+653,2017,Northwestern,Northwestern,Vanderbilt,68,66
+654,2004,Maryland,Maryland,UTEP,86,83
+655,2004,Syracuse,Maryland,Syracuse,70,72
+656,2004,Syracuse,Syracuse,BYU,80,75
+657,2004,Connecticut,Connecticut,Vermont,70,53
+658,2004,Connecticut,Connecticut,DePaul,72,55
+659,2004,Connecticut,Connecticut,Vanderbilt,73,53
+660,2004,DePaul,DePaul,Dayton,69,2
+661,2007,USC,Texas,USC,68,87
+662,2007,USC,USC,Arkansas,77,60
+663,2007,Georgetown,Georgetown,Belmont,80,55
+664,2007,Georgetown,Georgetown,Boston College,62,55
+665,2007,Georgetown,Georgetown,Vanderbilt,66,65
+666,2007,Boston College,Boston College,Texas Tech,84,75
+667,2007,Washington State,Washington State,Oral Roberts,70,54
+668,2007,Vanderbilt,Washington State,Vanderbilt,78,2
+669,2007,Vanderbilt,Vanderbilt,George Washington,77,44
+670,2007,Ohio State,Ohio State,Central Connecticut State,78,57
+671,2003,Missouri,Missouri,Southern Illinois,72,71
+672,2011,San Diego State,San Diego State,Temple,64,2
+673,2011,Connecticut,San Diego State,Connecticut,67,74
+674,2011,Temple,Temple,Penn State,66,64
+675,2011,Connecticut,Connecticut,Bucknell,81,52
+676,2011,Connecticut,Connecticut,Cincinnati,69,58
+677,2011,Cincinnati,Cincinnati,Missouri,78,63
+678,2011,Kansas,Kansas,Boston University,72,53
+679,2011,Kansas,Kansas,Illinois,73,59
+680,2011,Kansas,Kansas,Richmond,77,57
+681,2005,Wake Forest,Wake Forest,Chattanooga,70,54
+682,2005,West Virginia,Wake Forest,West Virginia,11,2
+683,2005,West Virginia,West Virginia,Texas Tech,65,60
+684,2005,West Virginia,West Virginia,Creighton,63,61
+685,2005,Gonzaga,Gonzaga,Winthrop,74,64
+686,2005,Texas Tech,Gonzaga,Texas Tech,69,71
+687,2005,Texas Tech,Texas Tech,UCLA,78,66
+688,2005,Illinois,Illinois,Fairleigh Dickinson,67,55
+689,2008,San Diego,Connecticut,San Diego,69,70
+690,2008,Western Kentucky,San Diego,Western Kentucky,63,72
+691,2008,Western Kentucky,Drake,Western Kentucky,99,101
+692,2008,Duke,Duke,Belmont,71,70
+693,2008,West Virginia,Duke,West Virginia,67,73
+694,2008,Xavier,West Virginia,Xavier,75,79
+695,2008,West Virginia,West Virginia,Arizona,75,65
+696,2010,Michigan State,Maryland,Michigan State,83,85
+697,2010,Michigan State,Michigan State,New Mexico State,70,67
+698,2010,Ohio State,Ohio State,UC Santa Barbara,68,51
+699,2010,Ohio State,Ohio State,Georgia Tech,75,66
+700,2010,Tennessee,Ohio State,Tennessee,73,76
+701,2010,Georgia Tech,Oklahoma State,Georgia Tech,59,64
+702,2010,Ohio,Georgetown,Ohio,83,97
+703,2010,Tennessee,Ohio,Tennessee,68,83
+704,2010,Tennessee,Tennessee,San Diego State,62,59
+705,2018,Kansas,Kansas,Penn,76,60
+706,2018,Kansas,Kansas,Seton Hall,83,79
+707,2018,Kansas,Kansas,Clemson,80,76
+708,2018,Kansas,Kansas,Duke,85,81
+709,2018,Seton Hall,Seton Hall,NC State,94,83
+710,2018,Auburn,Auburn,College of Charleston,62,58
+711,2012,Florida,Florida,Marquette,68,58
+712,2012,Florida,Florida,Virginia,71,45
+713,2012,Marquette,Marquette,BYU,88,68
+714,2012,Marquette,Marquette,Murray State,62,53
+715,2012,BYU,BYU,Iona,78,72
+716,2012,Murray State,Murray State,Colorado State,58,41
+717,2012,Syracuse,Syracuse,UNC Asheville,72,65
+718,2012,Syracuse,Syracuse,Kansas State,75,59
+719,2012,Syracuse,Syracuse,Wisconsin,64,63
+720,2012,Ohio State,Syracuse,Ohio State,70,77
+721,2012,Kansas,Ohio State,Kansas,62,64
+722,2009,Cleveland State,Wake Forest,Cleveland State,69,84
+723,2009,Arizona,Cleveland State,Arizona,57,71
+724,2009,Arizona,Utah,Arizona,71,84
+725,2009,Michigan State,Michigan State,Robert Morris,77,62
+726,2009,Michigan State,Michigan State,USC,74,69
+727,2009,Michigan State,Michigan State,Kansas,67,62
+728,2009,USC,Boston College,USC,55,72
+729,2009,Kansas,Kansas,North Dakota State,84,74
+730,2009,Kansas,Kansas,Dayton,60,43
+731,2013,Ohio State,Ohio State,Iona,95,70
+732,2013,Ohio State,Ohio State,Iowa State,78,75
+733,2013,Ohio State,Ohio State,Arizona,73,70
+734,2013,Iowa State,Notre Dame,Iowa State,58,76
+735,2013,Harvard,New Mexico,Harvard,62,68
+736,2013,Arizona,Harvard,Arizona,51,74
+737,2013,Arizona,Arizona,Belmont,81,64
+738,2014,Gonzaga,Gonzaga,Oklahoma State,85,77
+739,2014,San Diego State,San Diego State,New Mexico State,73,69
+740,2014,San Diego State,San Diego State,North Dakota State,80,73
+741,2014,North Dakota State,Oklahoma,North Dakota State,75,80
+742,2014,Wisconsin,Wisconsin,American,75,35
+743,2014,Wisconsin,Wisconsin,Oregon,85,77
+744,2014,Wisconsin,Wisconsin,Baylor,69,52
+745,2015,Arkansas,Arkansas,Wofford,56,53
+746,2015,Arizona,Arizona,Texas Southern,93,72
+747,2015,Arizona,Arizona,Ohio State,73,58
+748,2015,Arizona,Arizona,Xavier,68,60
+749,2015,Ohio State,VCU,Ohio State,72,75
+750,2015,Georgia State,Baylor,Georgia State,56,57
+751,2016,Texas A&M,Texas A&M,Northern Iowa,88,2
+752,2016,Northern Iowa,Texas,Northern Iowa,72,75
+753,2016,North Carolina,North Carolina,Florida Gulf Coast,83,67
+754,2016,North Carolina,North Carolina,Providence,85,66
+755,2016,North Carolina,North Carolina,Indiana,10,86
+756,2016,North Carolina,North Carolina,Notre Dame,88,74
+757,2016,North Carolina,North Carolina,Syracuse,83,66
+758,2006,Memphis,Memphis,Bucknell,72,56
+759,2006,Memphis,Memphis,Bradley,80,64
+760,2006,UCLA,Memphis,UCLA,45,50
+761,2006,Bucknell,Arkansas,Bucknell,55,59
+762,2006,Bradley,Kansas,Bradley,73,77
+763,2006,Bradley,Bradley,Pittsburgh,72,66
+764,2006,Pittsburgh,Pittsburgh,Kent State,79,64
+765,2006,UCLA,UCLA,Belmont,78,44
+766,2006,UCLA,UCLA,Alabama,62,59
+767,2017,West Virginia,West Virginia,Bucknell,86,80
+768,2017,West Virginia,West Virginia,Notre Dame,83,71
+769,2017,Notre Dame,Notre Dame,Princeton,60,58
+770,2017,Arizona,Arizona,North Dakota,100,82
+771,2017,Arizona,Arizona,Saint Mary's,69,60
+772,2017,Xavier,Arizona,Xavier,71,73
+773,2017,Saint Mary's,Saint Mary's,VCU,85,77
+774,2017,Florida State,Florida State,Florida Gulf Coast,86,80
+775,2004,NC State,NC State,Louisiana Lafayette,61,52
+776,2004,Vanderbilt,NC State,Vanderbilt,73,75
+777,2004,Vanderbilt,Vanderbilt,Western Michigan,71,58
+778,2007,Ohio State,Ohio State,Xavier,78,71
+779,2007,Ohio State,Ohio State,Tennessee,85,84
+780,2007,Ohio State,Ohio State,Memphis,92,76
+781,2007,Xavier,BYU,Xavier,77,79
+782,2007,Virginia,Virginia,Albany,84,57
+783,2007,Tennessee,Virginia,Tennessee,74,77
+784,2007,Tennessee,Tennessee,Long Beach State,121,86
+785,2007,Memphis,Memphis,North Texas,73,58
+786,2007,Memphis,Memphis,Nevada,78,62
+787,2007,Memphis,Memphis,Texas A&M,65,64
+788,2007,Nevada,Nevada,Creighton,77,71
+789,2011,VCU,Kansas,VCU,61,71
+790,2011,Butler,VCU,Butler,62,70
+791,2011,Illinois,UNLV,Illinois,62,73
+792,2011,Morehead State,Louisville,Morehead State,61,62
+793,2011,Richmond,Morehead State,Richmond,48,65
+794,2011,Richmond,Vanderbilt,Richmond,66,69
+795,2011,Notre Dame,Notre Dame,Akron,69,56
+796,2005,Illinois,Illinois,Nevada,71,59
+797,2005,Illinois,Illinois,Milwaukee,77,63
+798,2005,Illinois,Illinois,Arizona,90,89
+799,2005,Nevada,Texas,Nevada,57,61
+800,2005,Boston College,Boston College,Penn,85,65
+801,2005,Milwaukee,Boston College,Milwaukee,75,83
+802,2005,Milwaukee,Alabama,Milwaukee,73,83
+803,2008,Xavier,Xavier,Georgia,73,61
+804,2008,Xavier,Xavier,Purdue,85,78
+805,2008,Purdue,Purdue,Baylor,90,79
+806,2010,Syracuse,Syracuse,Vermont,79,56
+807,2010,Syracuse,Syracuse,Gonzaga,87,65
+808,2010,Butler,Syracuse,Butler,59,63
+809,2010,Butler,Butler,Kansas State,63,56
+810,2010,Gonzaga,Gonzaga,Florida State,67,60
+811,2010,Murray State,Vanderbilt,Murray State,65,66
+812,2010,Butler,Murray State,Butler,52,54
+813,2010,Butler,Butler,UTEP,77,59
+814,2018,Clemson,Auburn,Clemson,53,84
+815,2018,Clemson,Clemson,New Mexico State,79,68
+816,2018,Duke,Duke,Iona,89,67
+817,2018,Duke,Duke,Rhode Island,87,62
+818,2018,Duke,Duke,Syracuse,69,65
+819,2018,Rhode Island,Rhode Island,Oklahoma,83,78
+820,2018,Michigan State,Michigan State,Bucknell,82,78
+821,2018,Syracuse,Michigan State,Syracuse,53,55
+822,2018,Syracuse,TCU,Syracuse,52,57
+823,2012,Kansas State,Kansas State,Southern Miss,70,64
+824,2012,Wisconsin,Wisconsin,Montana,73,49
+825,2012,Wisconsin,Wisconsin,Vanderbilt,60,57
+826,2012,Vanderbilt,Vanderbilt,Harvard,79,70
+827,2012,Ohio State,Ohio State,Loyola MD,78,59
+828,2012,Ohio State,Ohio State,Gonzaga,73,66
+829,2012,Ohio State,Ohio State,Cincinnati,81,66
+830,2009,Dayton,West Virginia,Dayton,60,68
+831,2009,Connecticut,Connecticut,Chattanooga,103,47
+832,2009,Connecticut,Connecticut,Texas A&M,92,66
+833,2009,Connecticut,Connecticut,Purdue,72,60
+834,2009,Connecticut,Connecticut,Missouri,82,75
+835,2009,Texas A&M,BYU,Texas A&M,66,79
+836,2013,Kansas,Kansas,Western Kentucky,64,57
+837,2013,Kansas,Kansas,North Carolina,70,58
+838,2013,Michigan,Kansas,Michigan,85,87
+839,2013,Michigan,Michigan,Florida,79,59
+840,2013,Michigan,Michigan,Syracuse,61,56
+841,2013,North Carolina,North Carolina,Villanova,78,71
+842,2013,Michigan,Michigan,South Dakota State,71,56
+843,2014,Oregon,Oregon,BYU,87,68
+844,2014,Creighton,Creighton,Louisiana Lafayette,76,66
+845,2014,Baylor,Creighton,Baylor,55,85
+846,2014,Baylor,Baylor,Nebraska,74,60
+847,2014,Florida,Florida,Albany,67,55
+848,2014,Florida,Florida,Pittsburgh,61,45
+849,2014,Florida,Florida,UCLA,79,68
+850,2014,Florida,Florida,Dayton,62,52
+851,2014,Connecticut,Florida,Connecticut,53,63
+852,2014,Albany,Albany,Mount St. Mary's,71,64
+853,2015,Xavier,Georgia State,Xavier,67,75
+854,2015,Xavier,Xavier,Mississippi,76,57
+855,2015,Mississippi,Mississippi,BYU,94,90
+856,2015,Duke,Duke,Robert Morris,85,56
+857,2015,Duke,Duke,San Diego State,68,49
+858,2015,Duke,Duke,Utah,63,57
+859,2015,Duke,Duke,Gonzaga,66,52
+860,2015,Duke,Duke,Michigan State,81,61
+861,2015,Robert Morris,Robert Morris,North Florida,81,77
+862,2016,Florida Gulf Coast,Florida Gulf Coast,Fairleigh Dickinson,96,65
+863,2016,Providence,USC,Providence,69,70
+864,2016,Kentucky,Kentucky,Stony Brook,85,57
+865,2016,Indiana,Kentucky,Indiana,67,73
+866,2016,Indiana,Indiana,Chattanooga,99,72
+867,2016,Xavier,Xavier,Weber State,71,53
+868,2016,Wisconsin,Xavier,Wisconsin,63,66
+869,2016,Notre Dame,Wisconsin,Notre Dame,56,61
+870,2016,Wisconsin,Wisconsin,Pittsburgh,47,43
+871,2016,Stephen F. Austin,West Virginia,Stephen F. Austin,56,70
+872,2006,UCLA,UCLA,Gonzaga,73,71
+873,2006,Alabama,Marquette,Alabama,85,90
+874,2006,Gonzaga,Gonzaga,Xavier,79,75
+875,2006,Gonzaga,Gonzaga,Indiana,90,80
+876,2006,Indiana,Indiana,San Diego State,87,83
+877,2017,Xavier,Florida State,Xavier,66,91
+878,2017,Xavier,Maryland,Xavier,65,76
+879,2017,Kansas,Kansas,UC Davis,100,62
+880,2017,Kansas,Kansas,Michigan State,90,70
+881,2017,Kansas,Kansas,Purdue,98,66
+882,2017,Oregon,Kansas,Oregon,60,74
+883,2017,North Carolina,Oregon,North Carolina,76,77
+884,2007,Texas A&M,Texas A&M,Penn,68,52
+885,2007,Texas A&M,Texas A&M,Louisville,72,69
+886,2007,Louisville,Louisville,Stanford,78,58
+887,2011,Florida State,Notre Dame,Florida State,57,71
+888,2011,VCU,Florida State,VCU,71,72
+889,2011,Florida State,Texas A&M,Florida State,50,57
+890,2011,Purdue,Purdue,Saint Peter's,65,43
+891,2011,VCU,Purdue,VCU,76,94
+892,2011,VCU,Georgetown,VCU,56,74
+893,2011,VCU,VCU,USC,59,46
+894,2011,Pittsburgh,Pittsburgh,UNC Asheville,74,51
+895,2005,Oklahoma State,Oklahoma State,Southeastern Louisiana,63,50
+896,2005,Oklahoma State,Oklahoma State,Southern Illinois,85,77
+897,2005,Arizona,Oklahoma State,Arizona,78,79
+898,2005,Southern Illinois,Southern Illinois,Saint Mary's,65,56
+899,2005,Arizona,Arizona,Utah State,66,53
+900,2005,Arizona,Arizona,UAB,85,63
+901,2005,UAB,LSU,UAB,68,82
+902,2010,Kansas State,Kansas State,North Texas,82,62
+903,2010,Kansas State,Kansas State,BYU,84,72
+904,2010,Kansas State,Kansas State,Xavier,96,2
+905,2010,BYU,BYU,Florida,92,2
+906,2010,Pittsburgh,Pittsburgh,Oakland,89,66
+907,2010,Xavier,Pittsburgh,Xavier,68,71
+908,2018,Syracuse,Syracuse,Arizona State,60,56
+909,2018,UMBC,Virginia,UMBC,54,74
+910,2018,Kansas State,UMBC,Kansas State,43,50
+911,2018,Kansas State,Kansas State,Kentucky,61,58
+912,2018,Loyola Chicago,Kansas State,Loyola Chicago,62,78
+913,2018,Michigan,Loyola Chicago,Michigan,57,69
+914,2018,Kansas State,Creighton,Kansas State,59,69
+915,2018,Buffalo,Arizona,Buffalo,68,89
+916,2018,Kentucky,Buffalo,Kentucky,75,95
+917,2018,Kentucky,Kentucky,Davidson,78,73
+918,2012,Gonzaga,Gonzaga,West Virginia,77,54
+919,2012,Florida State,Florida State,St. Bonaventure,66,63
+920,2012,Cincinnati,Florida State,Cincinnati,56,62
+921,2012,Cincinnati,Cincinnati,Texas,65,59
+922,2012,North Carolina,North Carolina,Vermont,77,58
+923,2012,North Carolina,North Carolina,Creighton,87,73
+924,2012,North Carolina,North Carolina,Ohio,73,65
+925,2012,Kansas,North Carolina,Kansas,67,80
+926,2012,Vermont,Vermont,Lamar,71,59
+927,2009,Washington,Washington,Mississippi State,71,58
+928,2009,Purdue,Washington,Purdue,74,76
+929,2009,Purdue,Purdue,Northern Iowa,61,56
+930,2009,Memphis,Memphis,Cal State Northridge,81,70
+931,2009,Memphis,Memphis,Maryland,89,70
+932,2009,Missouri,Memphis,Missouri,91,102
+933,2009,Maryland,California,Maryland,71,84
+934,2013,Michigan,Michigan,VCU,78,53
+935,2013,VCU,VCU,Akron,88,42
+936,2013,Florida Gulf Coast,Georgetown,Florida Gulf Coast,68,78
+937,2013,Florida Gulf Coast,Florida Gulf Coast,San Diego State,81,71
+938,2013,Florida,Florida Gulf Coast,Florida,50,62
+939,2013,San Diego State,San Diego State,Oklahoma,70,55
+940,2013,Florida,Florida,Northwestern State,79,47
+941,2014,Pittsburgh,Colorado,Pittsburgh,48,77
+942,2014,UCLA,UCLA,Tulsa,76,59
+943,2014,UCLA,UCLA,Stephen F. Austin,77,60
+944,2014,Stephen F. Austin,VCU,Stephen F. Austin,75,77
+945,2014,Kansas,Kansas,Eastern Kentucky,80,69
+946,2014,Stanford,Kansas,Stanford,57,60
+947,2014,Dayton,Stanford,Dayton,72,82
+948,2014,Stanford,New Mexico,Stanford,53,58
+949,2014,Syracuse,Syracuse,Western Michigan,77,53
+950,2015,San Diego State,San Diego State,St. John's,76,64
+951,2015,Georgetown,Georgetown,Eastern Washington,84,74
+952,2015,Utah,Georgetown,Utah,64,75
+953,2015,Utah,Utah,Stephen F. Austin,57,50
+954,2015,Gonzaga,Gonzaga,North Dakota State,86,76
+955,2015,Gonzaga,Gonzaga,Iowa,87,68
+956,2015,Gonzaga,Gonzaga,UCLA,74,62
+957,2016,Notre Dame,Stephen F. Austin,Notre Dame,75,76
+958,2016,Notre Dame,Notre Dame,Michigan,70,63
+959,2016,Michigan,Michigan,Tulsa,67,62
+960,2016,Virginia,Virginia,Hampton,81,45
+961,2016,Virginia,Virginia,Butler,77,69
+962,2016,Virginia,Virginia,Iowa State,84,71
+963,2016,Syracuse,Virginia,Syracuse,62,68
+964,2016,Butler,Texas Tech,Butler,61,71
+965,2016,Iowa State,Iowa State,Iona,94,81
+966,2017,UC Davis,UC Davis,North Carolina Central,67,63
+967,2017,Michigan State,Miami (FL),Michigan State,58,78
+968,2017,Purdue,Purdue,Vermont,80,70
+969,2017,Purdue,Purdue,Iowa State,80,76
+970,2017,Iowa State,Iowa State,Nevada,84,73
+971,2017,Louisville,Louisville,Jacksonville State,78,63
+972,2011,Butler,Pittsburgh,Butler,70,71
+973,2011,Butler,Butler,Wisconsin,61,54
+974,2011,Butler,Butler,Florida,74,71
+975,2011,UNC Asheville,UNC Asheville,Arkansas Little Rock,81,77
+976,2011,Butler,Butler,Old Dominion,60,58
+977,2011,Wisconsin,Wisconsin,Belmont,72,58
+978,2011,Wisconsin,Wisconsin,Kansas State,70,65
+979,2011,Kansas State,Kansas State,Utah State,73,68
+980,2011,Florida,Florida,UC Santa Barbara,79,51
+981,2011,Florida,Florida,UCLA,73,65
+982,2010,Xavier,Xavier,Minnesota,65,54
+983,2018,Cincinnati,Cincinnati,Georgia State,68,53
+984,2018,Nevada,Cincinnati,Nevada,73,75
+985,2018,Loyola Chicago,Nevada,Loyola Chicago,68,69
+986,2018,Nevada,Nevada,Texas,87,83
+987,2018,Tennessee,Tennessee,Wright State,73,47
+988,2018,Loyola Chicago,Tennessee,Loyola Chicago,62,63
+989,2018,Loyola Chicago,Miami (FL),Loyola Chicago,62,64
+990,2012,Creighton,Creighton,Alabama,58,57
+991,2012,Ohio,Michigan,Ohio,60,65
+992,2012,Ohio,Ohio,South Florida,62,56
+993,2012,South Florida,Temple,South Florida,44,58
+994,2012,South Florida,South Florida,California,65,54
+995,2012,Kansas,Kansas,Detroit,65,50
+996,2012,Kansas,Kansas,Purdue,63,60
+997,2012,Kansas,Kansas,NC State,60,57
+998,2009,Missouri,Missouri,Cornell,78,59
+999,2009,Missouri,Missouri,Marquette,83,79
+1000,2009,Marquette,Marquette,Utah State,58,57
+1001,2013,Florida,Florida,Minnesota,78,64
+1002,2013,Minnesota,UCLA,Minnesota,63,83
+1003,2013,Indiana,Indiana,James Madison,83,62
+1004,2013,Indiana,Indiana,Temple,58,52
+1005,2013,Syracuse,Indiana,Syracuse,50,61
+1006,2013,Syracuse,Syracuse,Marquette,55,39
+1007,2013,James Madison,James Madison,LIU Brooklyn,68,55
+1008,2013,Temple,NC State,Temple,72,76
+1009,2013,Syracuse,Syracuse,Montana,81,34
+1010,2014,Dayton,Syracuse,Dayton,53,55
+1011,2014,Dayton,Ohio State,Dayton,59,60
+1012,2014,Virginia,Virginia,Coastal Carolina,70,59
+1013,2014,Virginia,Virginia,Memphis,78,60
+1014,2014,Michigan State,Virginia,Michigan State,59,61
+1015,2014,Connecticut,Michigan State,Connecticut,54,60
+1016,2014,Memphis,Memphis,George Washington,71,66
+1017,2014,Michigan State,Michigan State,Delaware,93,78
+1018,2015,Iowa,Iowa,Davidson,83,52
+1019,2015,UAB,Iowa State,UAB,59,60
+1020,2015,UCLA,UAB,UCLA,75,92
+1021,2015,UCLA,SMU,UCLA,59,60
+1022,2015,Villanova,Villanova,Lafayette,93,52
+1023,2015,NC State,Villanova,NC State,68,71
+1024,2015,Louisville,NC State,Louisville,65,75
+1025,2015,Michigan State,Louisville,Michigan State,70,76
+1026,2016,Iowa State,Iowa State,Arkansas Little Rock,78,61
+1027,2016,Arkansas Little Rock,Purdue,Arkansas Little Rock,85,2
+1028,2016,Middle Tennessee,Michigan State,Middle Tennessee,81,90
+1029,2016,Syracuse,Middle Tennessee,Syracuse,50,75
+1030,2016,Syracuse,Syracuse,Gonzaga,63,60
+1031,2016,Syracuse,Dayton,Syracuse,51,70
+1032,2016,Utah,Utah,Fresno State,80,69
+1033,2016,Gonzaga,Utah,Gonzaga,59,82
+1034,2016,Gonzaga,Seton Hall,Gonzaga,52,68
+1035,2017,Michigan,Louisville,Michigan,69,73
+1036,2017,Oregon,Michigan,Oregon,68,69
+1037,2017,Michigan,Michigan,Oklahoma State,92,91
+1038,2017,Oregon,Oregon,Iona,93,77
+1039,2017,Oregon,Oregon,Rhode Island,75,72
+1040,2017,Rhode Island,Creighton,Rhode Island,72,84
+1041,2017,North Carolina,North Carolina,Texas Southern,103,64
+1042,2011,Florida,Florida,BYU,83,74
+1043,2011,UCLA,UCLA,Michigan State,78,76
+1044,2011,BYU,BYU,Wofford,74,66
+1045,2011,BYU,BYU,Gonzaga,89,67
+1046,2011,Gonzaga,St. John's,Gonzaga,71,86
+1047,2018,Xavier,Xavier,Texas Southern,102,83
+1048,2018,Florida State,Xavier,Florida State,70,75
+1049,2018,Florida State,Florida State,Gonzaga,75,60
+1050,2018,Michigan,Florida State,Michigan,54,58
+1051,2018,Texas Southern,Texas Southern,North Carolina Central,64,46
+1052,2018,Florida State,Missouri,Florida State,54,67
+1053,2018,Gonzaga,Gonzaga,UNC Greensboro,68,64
+1054,2018,Gonzaga,Gonzaga,Ohio State,90,84
+1055,2018,Ohio State,Ohio State,South Dakota State,81,73
+1056,2018,North Carolina,North Carolina,Lipscomb,84,66
+1057,2012,Purdue,Saint Mary's,Purdue,69,72
+1058,2012,Georgetown,Georgetown,Belmont,74,59
+1059,2012,NC State,Georgetown,NC State,63,66
+1060,2012,NC State,San Diego State,NC State,65,79
+1061,2013,Syracuse,Syracuse,California,66,60
+1062,2013,California,UNLV,California,61,64
+1063,2013,Miami (FL),Miami (FL),Pacific,78,59
+1064,2013,Miami (FL),Miami (FL),Illinois,63,59
+1065,2013,Marquette,Miami (FL),Marquette,61,71
+1066,2013,Illinois,Illinois,Colorado,57,49
+1067,2013,Marquette,Marquette,Davidson,59,58
+1068,2013,Marquette,Marquette,Butler,74,72
+1069,2013,Butler,Butler,Bucknell,68,56
+1070,2014,Michigan State,Michigan State,Harvard,80,73
+1071,2014,Harvard,Cincinnati,Harvard,57,61
+1072,2014,Villanova,Villanova,Milwaukee,73,53
+1073,2014,Connecticut,Villanova,Connecticut,65,77
+1074,2014,Connecticut,Connecticut,Iowa State,81,76
+1075,2014,Connecticut,Connecticut,Saint Joseph's,89,81
+1076,2014,Iowa State,Iowa State,North Carolina Central,93,75
+1077,2014,Iowa State,Iowa State,North Carolina,85,83
+1078,2014,North Carolina,North Carolina,Providence,79,77
+1079,2015,NC State,NC State,LSU,66,65
+1080,2015,Louisville,Louisville,UC Irvine,57,55
+1081,2015,Louisville,Louisville,Northern Iowa,66,53
+1082,2015,Northern Iowa,Northern Iowa,Wyoming,71,54
+1083,2015,Virginia,Virginia,Belmont,79,67
+1084,2015,Michigan State,Virginia,Michigan State,54,60
+1085,2015,Michigan State,Michigan State,Oklahoma,62,58
+1086,2015,Michigan State,Michigan State,Georgia,70,63
+1087,2015,Oklahoma,Oklahoma,Albany,69,60
+1088,2017,North Carolina,North Carolina,Arkansas,72,65
+1089,2017,North Carolina,North Carolina,Butler,92,80
+1090,2017,North Carolina,North Carolina,Kentucky,75,73
+1091,2017,Arkansas,Arkansas,Seton Hall,77,71
+1092,2017,Butler,Butler,Winthrop,76,64
+1093,2017,Butler,Butler,Middle Tennessee,74,65
+1094,2017,Middle Tennessee,Minnesota,Middle Tennessee,72,81
+1095,2017,Kentucky,Kentucky,Northern Kentucky,79,70
+1096,2018,Texas A&M,North Carolina,Texas A&M,65,86
+1097,2018,Michigan,Texas A&M,Michigan,72,99
+1098,2018,Texas A&M,Texas A&M,Providence,73,69
+1099,2018,Michigan,Michigan,Montana,61,47
+1100,2018,Michigan,Michigan,Houston,64,63
+1101,2018,Houston,Houston,San Diego State,67,65
+1102,2015,Oklahoma,Oklahoma,Dayton,72,66
+1103,2015,Dayton,Providence,Dayton,53,66
+1104,2015,Dayton,Dayton,Boise State,56,55
+1105,2017,Kentucky,Kentucky,Wichita State,65,62
+1106,2017,Kentucky,Kentucky,UCLA,86,75
+1107,2017,Wichita State,Dayton,Wichita State,58,64
+1108,2017,UCLA,UCLA,Kent State,97,80
+1109,2017,UCLA,UCLA,Cincinnati,79,67
+1110,2017,Cincinnati,Cincinnati,Kansas State,75,61
+1111,2017,Kansas State,Kansas State,Wake Forest,95,88

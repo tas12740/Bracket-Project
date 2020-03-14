@@ -32,7 +32,7 @@ for year in df['year'].unique():
     #     print (sorted(teams - teams_final))
     #     print (sorted(teams_final - teams))
 
-print (df.head())
+print (df.head(10))
 print (df.shape)
 
 df.to_csv('Results.csv')

@@ -1,138 +1,163 @@
+from json import load
 import pandas as pd
-import numpy as np
-import json
 
-def is_match(row, keys, keys_match):
-    for key in keys_match:
-        if key not in keys:
-            return False
-    return len(keys) == len(keys_match)
+with open('sportsref.json') as fp:
+    json_data = load(fp)
 
-def is_schooldata(row):
-    keys = list(row.keys())
-    keys_match = ['school_name', 'g', 'wins', 'losses', 'win_loss_pct', 'srs', 'sos', 'wins_conf', 'losses_conf', 'wins_home', 'losses_home', 'wins_visitor', 'losses_visitor', 'pts', 'opp_pts', 'pace', 'off_rtg', 'fta_per_fga_pct', 'fg3a_per_fga_pct', 'ts_pct', 'trb_pct', 'ast_pct', 'stl_pct', 'blk_pct', 'efg_pct', 'tov_pct', 'orb_pct', 'ft_rate', 'year']
-    return is_match(row, keys, keys_match)
+if json_data is None:
+    quit()
 
-def is_playerbasicdata(row):
-    keys = list(row.keys())
-    keys_matches = []
-    keys_matches.append(['number', 'year', 'type', 'class', 'pos', 'height', 'weight', 'hometown', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'class', 'pos', 'height', 'weight', 'rsci', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'class', 'pos', 'height', 'weight', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'class', 'height', 'weight', 'hometown', 'summary', 'player'])
-    keys_matches.append(['class', 'year', 'type', 'pos', 'height', 'weight', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'class', 'weight', 'hometown', 'summary', 'player'])
-    keys_matches.append(['class', 'year', 'type', 'pos', 'high_school', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'pos', 'height', 'weight', 'hometown', 'high_school', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'pos', 'height', 'weight', 'hometown', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'class', 'pos', 'height', 'weight', 'hometown', 'rsci', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'class', 'pos', 'weight', 'hometown', 'summary', 'player'])
-    keys_matches.append(['number', 'year', 'type', 'class', 'pos', 'height', 'weight', 'hometown', 'high_school', 'summary', 'player'])
-    for poss in keys_matches:
-        res = is_match(row, keys, poss)
-        if res:
-            return res
-    return False
+different_structures_player = set()
+different_structures_team_stats = set()
+different_structures_team_player = set()
 
-def is_teamdata(row):
-    keys = list(row.keys())
-    keys_matches = []
-    keys_match = ['g', 'year', 'type', 'fg', 'fga', 'fg_pct', 'fg2', 'fg2a', 'fg2_pct', 'fg3', 'fg3a', 'fg3_pct', 'ft', 'fta', 'ft_pct', 'orb', 'drb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pts', 'pts_per_g']
-    keys_matches.append(keys_match)
-    keys_matches.append(['g', 'year', 'type', 'mp', 'fg', 'fga', 'fg_pct', 'fg2', 'fg2a', 'fg2_pct', 'fg3', 'fg3a', 'fg3_pct', 'ft', 'fta', 'ft_pct', 'orb', 'drb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pts', 'pts_per_g'])
-    keys_matches.append(['g', 'year', 'type', 'mp', 'opp_fg', 'opp_fga', 'opp_fg_pct', 'opp_trb', 'opp_pts', 'opp_pts_per_g'])
-    keys_matches.append(['g', 'year', 'type', 'mp', 'fg', 'fga', 'fg_pct', 'fg2', 'fg2a', 'fg2_pct', 'fg3', 'fg3a', 'fg3_pct', 'ft', 'fta', 'ft_pct', 'orb', 'drb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pf', 'pts', 'pts_per_g'])
-    keys_matches.append(['fg', 'year', 'type', 'fga', 'fg_pct', 'fg2', 'fg2a', 'fg2_pct', 'fg3', 'fg3a', 'fg3_pct', 'ft', 'fta', 'ft_pct', 'orb', 'drb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pf', 'pts', 'pts_per_g'])
-    keys_matches.append(['g', 'year', 'type', 'mp', 'opp_fg', 'opp_fga', 'opp_fg_pct', 'opp_fg2', 'opp_fg2a', 'opp_fg2_pct', 'opp_fg3', 'opp_fg3a', 'opp_fg3_pct', 'opp_ft', 'opp_fta', 'opp_ft_pct', 'opp_orb', 'opp_drb', 'opp_trb', 'opp_ast', 'opp_stl', 'opp_blk', 'opp_tov', 'opp_pf', 'opp_pts', 'opp_pts_per_g'])
-    for poss in keys_matches:
-        res = is_match(row, keys, poss)
-        if res:
-            return res
-    return False
+for row in json_data:
+    keys = tuple(sorted(row.keys()))
+    if 'is_team_stats' in keys:
+        different_structures_team_stats.add(keys)
+    elif 'is_player' in keys:
+        if row['is_player']:
+            different_structures_player.add(keys)
+        else:
+            different_structures_team_player.add(keys)
 
-def is_teamranks(row):
-    keys = list(row.keys())
-    keys_match = ['fg', 'year', 'type', 'fga', 'fg_pct', 'fg2', 'fg2a', 'fg2_pct', 'fg3', 'fg3a', 'fg3_pct', 'ft', 'fta', 'ft_pct', 'orb', 'drb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pts', 'pts_per_g']
-    keys_match_opp = ['opp_fg', 'year', 'type', 'opp_fga', 'opp_fg_pct', 'opp_trb', 'opp_pts', 'opp_pts_per_g']
-    keys_match_opp2 = ['opp_fg', 'year', 'type', 'opp_fga', 'opp_fg_pct', 'opp_fg2', 'opp_fg2a', 'opp_fg2_pct', 'opp_fg3', 'opp_fg3a', 'opp_fg3_pct', 'opp_ft', 'opp_fta', 'opp_ft_pct', 'opp_orb', 'opp_drb', 'opp_trb', 'opp_ast', 'opp_stl', 'opp_blk', 'opp_tov', 'opp_pf', 'opp_pts', 'opp_pts_per_g']
-    return is_match(row, keys, keys_match) or is_match(row, keys, keys_match_opp) or is_match(row, keys, keys_match_opp2)
+print(f'There are {len(different_structures_player)}, {len(different_structures_team_stats)}, {len(different_structures_team_player)} different structures')
 
-def is_oppdatabasic(row):
-    keys = list(row.keys())
-    keys_match = ['g', 'year', 'type', 'opp_fg', 'opp_fga', 'opp_fg_pct', 'opp_trb', 'opp_pts', 'opp_pts_per_g']
-    return is_match(row, keys, keys_match)
+unique_player_keys = set()
+for struct in different_structures_player:
+    for key in struct:
+        unique_player_keys.add(key)
 
-def is_pergamestats(row):
-    keys = list(row.keys())
-    keys_matches = []
-    keys_matches.append(['player', 'year', 'type', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'fg3_pct', 'ft_per_g', 'fta_per_g', 'ft_pct', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'ft_pct', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'fg3_pct', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'gs', 'fg_per_g', 'fga_per_g', 'fg2_per_g', 'fg2a_per_g', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'fg3_pct', 'ft_per_g', 'fta_per_g', 'ft_pct', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'fg3_pct', 'ft_per_g', 'fta_per_g', 'ft_pct', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'ft_pct', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'schools', 'years', 'g', 'gs', 'mp', 'fg', 'fga', 'fg3', 'fg3a', 'ft', 'fta', 'orb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pf', 'pts', 'trb_per_g', 'ast_per_g', 'pts_per_g', 'ws', 'season', 'type'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg3_per_g', 'fg3a_per_g', 'fg3_pct', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g'])
-    for poss in keys_matches:
-        res = is_match(row, keys, poss)
-        if res:
-            return True
-    return False
+print('Player keys: {}'.format(sorted(unique_player_keys)))
 
-def is_playerdata(row):
-    keys = list(row.keys())
-    keys_matches = []
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'ft_pct', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g', 'sos', 'season', 'type', 'player'])
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg2_per_g', 'fg2a_per_g', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g', 'sos', 'season', 'type', 'player'])
-    keys_matches.append(['player', 'schools', 'years', 'g', 'gs', 'mp', 'fg', 'fga', 'fg_pct', 'fg3', 'fg3a', 'fg3_pct', 'ft', 'fta', 'ft_pct', 'orb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pf', 'pts', 'trb_per_g', 'ast_per_g', 'pts_per_g', 'efg_pct', 'ws', 'season', 'type'])
-    keys_matches.append(['player', 'schools', 'years', 'g', 'gs', 'mp', 'fg', 'fga', 'fg_pct', 'fg3', 'fg3a', 'ft', 'fta', 'ft_pct', 'orb', 'trb', 'ast', 'stl', 'blk', 'tov', 'pf', 'pts', 'trb_per_g', 'ast_per_g', 'pts_per_g', 'efg_pct', 'ws', 'season', 'type'])
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'gs', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g', 'sos', 'season', 'type', 'player'])
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'fg3_pct', 'ft_per_g', 'fta_per_g', 'ft_pct', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'pts_per_g', 'sos', 'season', 'type', 'player'])
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'ft_pct', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g', 'season', 'type', 'player'])
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'fg3_pct', 'ft_per_g', 'fta_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'pts_per_g', 'sos', 'season', 'type', 'player'])
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'gs', 'fg_per_g', 'fga_per_g', 'fg2_per_g', 'fg2a_per_g', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g', 'sos', 'season', 'type', 'player'])
-    keys_matches.append(['school_name', 'conf_abbr', 'g', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg_pct', 'fg2_per_g', 'fg2a_per_g', 'fg2_pct', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'ft_pct', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g', 'sos', 'season', 'type', 'player'])
-    keys_matches.append(['player', 'year', 'type', 'g', 'gs', 'mp_per_g', 'fg_per_g', 'fga_per_g', 'fg2_per_g', 'fg2a_per_g', 'fg3_per_g', 'fg3a_per_g', 'ft_per_g', 'fta_per_g', 'orb_per_g', 'drb_per_g', 'trb_per_g', 'ast_per_g', 'stl_per_g', 'blk_per_g', 'tov_per_g', 'pf_per_g', 'pts_per_g'])
-    for poss in keys_matches:
-        res = is_match(row, keys, poss)
-        if res:
-            return True
-    return False
+unique_team_player_keys = set()
+for struct in different_structures_team_player:
+    for key in struct:
+        unique_team_player_keys.add(key)
 
-def is_anomalous(row):
-    keys = list(row.keys())
-    keys_match = ['player', 'season', 'type']
-    return len(keys) == len(keys_match) and is_match(row, keys, keys_match)
+print('Player team keys: {}'.format(sorted(unique_team_player_keys)))
 
-f = open('../sportsref/sportsref.json', 'r')
-sportsref_data = json.load(f)
+unique_team_keys = set()
+for struct in different_structures_team_stats:
+    for key in struct:
+        unique_team_keys.add(key)
 
-count = 0
-for row in sportsref_data:
-    count += 1
-    if is_anomalous(row):
-        continue
-    if is_schooldata(row):
-        # handle school data
-        continue
-    if is_playerbasicdata(row):
-        # handle player basic data
-        continue
-    if is_teamdata(row):
-        # handle team data
-        continue
-    if is_teamranks(row):
-        # skip
-        continue
-    if is_oppdatabasic(row):
-        continue
-    if is_pergamestats(row):
-        continue
-    if is_playerdata(row):
-        continue
-    print (list(row.keys()))
-    print (row.items())
-    break
-print ('Done!', count)
+print('Team keys: {}'.format(sorted(unique_team_keys)))
+
+player_dict = dict()
+team_stats_dict = dict()
+team_stats_player_dict = dict()
+
+
+def is_player(row):
+    keys = row.keys()
+    return len(list(filter(lambda k: k in unique_player_keys, keys))) == len(keys)
+
+
+def is_team_stats(row):
+    keys = row.keys()
+    return len(list(filter(lambda k: k in unique_team_keys, keys))) == len(keys)
+
+
+def is_team_player_stats(row):
+    keys = row.keys()
+    return len(list(filter(lambda k: k in unique_team_player_keys, keys))) == len(keys)
+
+
+for row in json_data:
+    if is_team_player_stats(row):
+        year = row['year']
+        del row['year']
+        del row['is_player']
+        if year not in team_stats_player_dict:
+            team_stats_player_dict[year] = dict()
+        team_stats_player_dict[year][row['team_name']] = row
+        del team_stats_player_dict[year][row['team_name']]['team_name']
+    elif is_player(row):
+        year = row['year']
+        del row['year']
+        del row['is_player']
+        if year not in player_dict:
+            player_dict[year] = dict()
+        player_name = row['player']
+        del row['player']
+        if player_name not in player_dict[year]:
+            player_dict[year][player_name] = row
+        else:
+            for key, val in row.items():
+                player_dict[year][player_name][key] = val
+    elif is_team_stats(row):
+        year = row['year']
+        if 'school_name' not in row:
+            continue
+        school_name = row['school_name']
+        del row['year']
+        del row['school_name']
+        del row['is_team_stats']
+        if year not in team_stats_dict:
+            team_stats_dict[year] = dict()
+        if school_name not in team_stats_dict[year]:
+            team_stats_dict[year][school_name] = row
+        else:
+            for key, val in row.items():
+                team_stats_dict[year][school_name][key] = val
+
+dicts = [player_dict, team_stats_dict, team_stats_player_dict]
+
+# for d in dicts:
+#     for year in sorted(d.keys()):
+#         print(f'Year {year}: {len(d[year].values())}')
+
+player_cols = sorted(list(unique_player_keys))
+player_cols.remove('year')
+player_cols.remove('is_player')
+
+for year, players in player_dict.items():
+    new_player_list = []
+    for player_name, info in players.items():
+        new_player = dict()
+        new_player['player'] = player_name
+        for k, v in info.items():
+            new_player[k] = v
+        new_player_list.append(new_player)
+    player_df = pd.DataFrame(new_player_list, columns=player_cols)
+    player_df.dropna(axis=1, how='all', inplace=True)
+    # print(player_df.shape)
+    # print (player_df.head())
+    player_df.to_csv('SportsRefPlayerData{}.csv'.format(year))
+
+team_cols = sorted(list(unique_team_keys))
+team_cols.remove('year')
+team_cols.remove('is_team_stats')
+
+for year, team in team_stats_dict.items():
+    new_team_list = []
+    for team_name, info in team.items():
+        new_team = dict()
+        new_team['school_name'] = team_name
+        for k, v in info.items():
+            new_team[k] = v
+        new_team_list.append(new_team)
+    team_df = pd.DataFrame(new_team_list, columns=team_cols)
+    team_df.dropna(axis=1, how='all', inplace=True)
+    # print (team_df.shape)
+    # print (team_df.head())
+    team_df.to_csv('SportsRefTeamData{}.csv'.format(year))
+
+team_player_cols = sorted(list(unique_team_player_keys))
+team_player_cols.remove('year')
+team_player_cols.remove('is_player')
+
+for year, team in team_stats_player_dict.items():
+    new_list = []
+    for team_name, info in team.items():
+        new_team = dict()
+        new_team['team_name'] = team_name
+        for k, v in info.items():
+            new_team[k] = v
+        new_list.append(new_team)
+    team_df = pd.DataFrame(new_list, columns=team_player_cols)
+    team_df.dropna(axis=1, how='all', inplace=True)
+    # print (year, team_df.shape)
+    # print (team_df.head())
+    team_df.to_csv('SportsRefTeamDataFromPlayerPage{}.csv'.format(year))

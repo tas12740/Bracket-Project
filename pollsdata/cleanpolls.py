@@ -1,6 +1,6 @@
 from json import load
 import pandas as pd
-from sys import maxsize
+# from sys import maxsize
 
 with open('polls.json') as fp:
     json_data = load(fp)
@@ -15,7 +15,7 @@ for year in df['year'].unique():
 
     curr_year.dropna(axis=1, how='all', inplace=True)
 
-    curr_year = curr_year.replace(r'^\s*$', maxsize, regex=True)
+    curr_year = curr_year.replace(r'^\s*$', 0, regex=True)
 
     cols = list(curr_year.columns)
     cols.remove('year')
