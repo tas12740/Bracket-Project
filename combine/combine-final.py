@@ -3,7 +3,7 @@ import pandas as pd
 joined = None
 
 start = 2002
-end = 2019
+end = 2020
 
 for year in range(start, end+1):
     curr_df = pd.read_csv(f'joined-data/{year}JoinedData.csv', index_col=0)

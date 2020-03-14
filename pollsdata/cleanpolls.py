@@ -21,6 +21,7 @@ for year in df['year'].unique():
     cols.remove('year')
     cols.remove('school_name')
 
+    # print (curr_year[curr_year.isna().any(axis=1)])
     curr_year[cols] = curr_year[cols].astype(dtype='int')
 
     curr_year['max'] = curr_year[curr_year[cols] > 0].min(axis=1)

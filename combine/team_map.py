@@ -1,6 +1,6 @@
 def map_team_names(name: str):
     if name.split(' ')[-1] == 'St.':
-        return name.replace('St.', 'State')
+        name = name.replace('St.', 'State')
     if name == 'University of California':
         return 'California'
     if name == 'Central Connecticut':
@@ -123,7 +123,72 @@ def map_team_names(name: str):
         return 'College of Charleston'
     if name == 'N.C. State' or name == 'NCSU' or name == 'North Carolina State' or name == 'North Carolina State University':
         return 'NC State'
-    if name == 'UNC': return 'North Carolina'
-    if name == 'UConn': return 'Connecticut'
-    if name == 'Pitt': return 'Pittsburgh'
+    if name == 'UNC':
+        return 'North Carolina'
+    if name == 'UConn':
+        return 'Connecticut'
+    if name == 'Pitt':
+        return 'Pittsburgh'
+    if name == 'Bethune-Cookman':
+        return 'Bethune Cookman'
+    if name == 'Bowling Green State':
+        return 'Bowling Green'
+    if name == 'California Baptist':
+        return 'Cal Baptist'
+    if name == 'Long Beach State':
+        return 'Cal State Long Beach'
+    if name == 'Charleston':
+        return 'College of Charleston'
+    if name == 'Florida International':
+        return 'FIU'
+    if name == 'Grambling State':
+        return 'Grambling'
+    if name == 'LIU':
+        return 'LIU Brooklyn'
+    if name == 'Louisiana-Monroe':
+        return 'Louisiana Monroe'
+    if name == 'Maryland-Eastern Shore':
+        return 'Maryland Eastern Shore'
+    if name == 'Citadel':
+        return 'The Citadel'
+    if name == 'Massachusetts-Lowell' or name == 'Massachusetts Lowell':
+        return 'UMass Lowell'
+    if name == 'Purdue-Fort Wayne':
+        return 'Purdue Fort Wayne'
+    if name == 'St. Francis (NY)':
+        return 'St. Francis NY'
+    if name == 'Saint Francis (PA)':
+        return 'St. Francis PA'
+    if name == 'Tennessee-Martin':
+        return 'Tennessee Martin'
+    if name == 'UC-Riverside':
+        return 'UC Riverside'
+    if name == 'Missouri-Kansas City':
+        return 'UMKC'
+    if name == 'Nebraska Omaha':
+        return 'Omaha'
+    if name == 'USC Upstate':
+        return 'South Carolina Upstate'
+    if name == 'Texas-Rio Grande Valley':
+        return 'UT Rio Grande Valley'
+    if name == 'Njit':
+        return 'NJIT'
+    if name == 'Ipfw':
+        return 'Purdue Fort Wayne'
+    if name == 'California Riverside':
+        return 'UC Riverside'
+    if name == 'Southern Illinois Edwardsville':
+        return 'SIU Edwardsville'
+    if name == 'St Francis Ny':
+        return 'St. Francis NY'
+    if name == 'Saint Francis Pa':
+        return 'St. Francis PA'
+    if name == 'Missouri Kansas City':
+        return 'UMKC'
+    if name == 'Virginia Military Institute':
+        return 'VMI'
+    if name == 'William Mary':
+        return 'William & Mary'
+    if name == 'Texas Pan American':
+        return 'UT Rio Grande Valley'
     return name
