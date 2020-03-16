@@ -91,12 +91,14 @@ Send2Trash==1.5.0
 service-identity==18.1.0
 six==1.14.0
 soupsieve==2.0
+tb-nightly==1.14.0a20190603
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.0.0b1
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
+tf-estimator-nightly==1.14.0.dev2019060501
 tornado==6.0.4
 traitlets==4.3.3
 Twisted==19.10.0
