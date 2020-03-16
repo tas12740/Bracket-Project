@@ -1,0 +1,23 @@
+{
+  "name": "bracketproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tas12740/Bracket-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tas12740/Bracket-Project/issues"
+  },
+  "homepage": "https://github.com/tas12740/Bracket-Project#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jquery-bracket": "^0.11.1"
+  }
+}
