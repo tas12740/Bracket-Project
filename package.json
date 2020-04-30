@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/tas12740/Bracket-Project#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-bracket": "^0.11.1"
   }
 }
