@@ -101,7 +101,7 @@ testpath==0.4.4
 tf-estimator-nightly==1.14.0.dev2019060501
 tornado==6.0.4
 traitlets==4.3.3
-Twisted==19.10.0
+Twisted==22.4.0
 urllib3==1.25.7
 w3lib==1.21.0
 wcwidth==0.1.8
